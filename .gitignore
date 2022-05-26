@@ -16,3 +16,4 @@ save_models/
 *.zip
 */audio_log/
 emonet/
+*.json

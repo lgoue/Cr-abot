@@ -11,11 +11,19 @@ from sklearn.ensemble import GradientBoostingClassifier, BaggingClassifier
 from datetime import datetime
 from utils import get_best_estimators
 import requests
+
+
+# Load configuration
+with open('../vaAPI.json') as f:
+  config = json.load(f)
+print(config)
+
+
 THRESHOLD = 500
 CHUNK_SIZE = 1024
 FORMAT = pyaudio.paInt16
 RATE = 16000
-logger_url = "http://192.168.137.1:8008/"
+logger_url = "http://"+config['Dev_IP']+":8008/"
 SILENCE = 30
 path_name = ""
 turn = 0

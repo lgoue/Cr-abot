@@ -5,8 +5,13 @@ import pandas as pd
 import requests
 import numpy as np
 
+# Load configuration
+with open('vaAPI.json') as f:
+  config = json.load(f)
+print(config)
+
 log_directory ="log/"
-pomdp_url = "http://192.168.137.1:8888/"
+pomdp_url = "http://"+config['Dev_IP']+":8888/"
 app = FastAPI()
 v=[]
 a=[]
@@ -147,4 +152,4 @@ def log(turn_log : str,name_log:str):
 
 import uvicorn
 print("launching app")
-uvicorn.run(app, port=8008,host="192.168.137.1")
+uvicorn.run(app, port=8008,host=config['Dev_IP'])

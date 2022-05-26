@@ -2,7 +2,10 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
 app = FastAPI()
-
+# Load configuration
+with open('vaAPI.json') as f:
+  config = json.load(f)
+print(config)
 app.add_middleware(
     CORSMiddleware,
     allow_origins=['*'],
@@ -400,4 +403,4 @@ def get_nov_score(idea: str,item:str):
 
 import uvicorn
 print("launching app")
-uvicorn.run(app, port=8088,host="192.168.137.1")
+uvicorn.run(app, port=8088,host=config['Dev_IP'])

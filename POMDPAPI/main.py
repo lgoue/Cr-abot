@@ -10,6 +10,10 @@ from observation import Idea
 import requests
 
 app = FastAPI()
+# Load configuration
+with open('../vaAPI.json') as f:
+  config = json.load(f)
+print(config)
 
 app.add_middleware(
     CORSMiddleware,
@@ -22,7 +26,7 @@ app.add_middleware(
 parser = argparse.ArgumentParser()
 parser.add_argument("--condition")
 parser.add_argument("--load")
-logger_url = "http://192.168.137.1:8008/"
+logger_url = "http://"+config['Dev_IP']+":8008/"
 # Get the hyperparameters
 args_parse = parser.parse_args()
 cond=args_parse.condition
@@ -97,4 +101,4 @@ def new_interaction():
 
 import uvicorn
 print("launching app")
-uvicorn.run(app, port=8888,host="192.168.137.1")
+uvicorn.run(app, port=8888,host=config['Dev_IP'])

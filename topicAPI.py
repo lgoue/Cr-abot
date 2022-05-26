@@ -2,6 +2,11 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
+# Load configuration
+with open('vaAPI.json') as f:
+  config = json.load(f)
+print(config)
+
 app = FastAPI()
 
 app.add_middleware(
@@ -90,4 +95,4 @@ def next_topic(proposed_topics : str,item:str):
 
 import uvicorn
 print("launching app")
-uvicorn.run(app, port=8000,host="192.168.137.1")
+uvicorn.run(app, port=8000,host=config['Dev_IP'])
