@@ -8,10 +8,11 @@ from fastapi.middleware.cors import CORSMiddleware
 from observationfurhat import MoodObservation
 from observation import Idea
 import requests
-
+import json
+import os.path
 app = FastAPI()
 # Load configuration
-with open('../vaAPI.json') as f:
+with open(os.path.dirname(__file__) +'/../vaAPI.json') as f:
   config = json.load(f)
 print(config)
 
@@ -64,6 +65,9 @@ def update_state(idea_score:str,p:str,a:str,d:str,hap:str,sad:str,ang:str,sur:st
             logger_url+"get_ne_audio",
             params ={}
             ).text)
+    hap = float(hap)
+    sad = float(sad)
+    ne = float(ne)
     if hap_audio > 0:
         if hap*sad*ne > 0:
             mood_observation = MoodObservation((float(hap)+hap_audio)/2,(float(sad)+sad_audio)/2,float(ang),float(sur),(float(ne)+ ne_audio)/2)
@@ -72,6 +76,7 @@ def update_state(idea_score:str,p:str,a:str,d:str,hap:str,sad:str,ang:str,sur:st
     else:
         mood_observation = MoodObservation((float(hap)),(float(sad)),float(ang),float(sur),(float(ne)))
     idea_observation = Idea(int(idea_score))
+    mood_observation.print_observation()
     env.update_state(mood_observation,idea_observation)
     env.update_action(env.state)
     return True

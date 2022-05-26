@@ -4,7 +4,7 @@ from fastapi.middleware.cors import CORSMiddleware
 import pandas as pd
 import requests
 import numpy as np
-
+import json
 # Load configuration
 with open('vaAPI.json') as f:
   config = json.load(f)

@@ -1,7 +1,7 @@
 
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-
+import json
 # Load configuration
 with open('vaAPI.json') as f:
   config = json.load(f)

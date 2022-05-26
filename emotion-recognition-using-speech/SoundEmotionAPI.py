@@ -11,10 +11,10 @@ from sklearn.ensemble import GradientBoostingClassifier, BaggingClassifier
 from datetime import datetime
 from utils import get_best_estimators
 import requests
-
-
+import json
+import os.path
 # Load configuration
-with open('../vaAPI.json') as f:
+with open(os.path.dirname(__file__) +'/../vaAPI.json') as f:
   config = json.load(f)
 print(config)
 

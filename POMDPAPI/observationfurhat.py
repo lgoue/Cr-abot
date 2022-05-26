@@ -30,9 +30,9 @@ class MoodObservation:
         sad_p,sad_a,sad_d = Mood(MoodType.SAD).PAD_values()
         ang_p,ang_a,ang_d = Mood(MoodType.ANGRY).PAD_values()
         sur_p,sur_a,sur_d = Mood(MoodType.SURPRISED).PAD_values()
-        a =  self.sad*sad_a+self.ang*ang_a+self.sur*sur_a + self.hap*hap_a
-        p =  self.sad*sad_p+self.ang*ang_p+self.sur*sur_p+ self.hap*hap_p
-        d =  self.sad*sad_d+self.ang*ang_d+self.sur*sur_d+ self.hap*hap_d
+        a =  self.sad*sad_a + self.hap*hap_a
+        p =  self.sad*sad_p+ self.hap*hap_p
+        d =  self.sad*sad_d+ self.hap*hap_d
         return p, a, d
 
 
