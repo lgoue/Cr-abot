@@ -1,0 +1,2919 @@
+id;item;response;rater1;rater2;rater3;rater4;raterm
+2001;box;hat;1;1;1;1;1
+2001;box;sound amplifier;3;3;2;3;2,75
+2001;box;flowerbed liner;2;3;2;3;2,5
+2001;box;peg board for painting hardware;1;4;3;3;2,75
+2001;box;pain canvas;1;1;2;2;1,5
+2001;box;cat carrier;1;1;1;1;1
+2002;box;gift;1;1;1;1;1
+2002;box;desk;1;1;1;2;1,25
+2002;box;mailbox;2;1;1;2;1,5
+2002;box;cage;1;1;1;1;1
+2002;box;container;1;1;1;1;1
+2002;box;pet;1;1;2;1;1,25
+2002;box;house if large enough;1;1;1;1;1
+2002;box;tear into strip and intertwine to make;3;4;3;4;3,5
+2002;box;fill with dirt to make a brick or weigh;2;1;2;3;2
+2002;box;doll;1;1;2;2;1,5
+2002;box;sign;1;1;1;2;1,25
+2002;box;breakdancing platform;1;2;2;3;2
+2002;box;plant holder;2;2;2;2;2
+2002;box;firewood;1;2;2;2;1,75
+2002;box;puppy holder;1;1;1;1;1
+2002;box;soapbox derby car;2;3;1;4;2,5
+2002;box;fruit bowl;2;2;2;2;2
+2002;box;props in a play;1;2;2;3;2
+2002;box;picture frame;2;2;2;3;2,25
+2003;box;paper;1;1;1;2;1,25
+2003;box;Storage;1;1;1;1;1
+2003;box;Fort;1;1;1;1;1
+2003;box;Trap;2;1;2;2;1,75
+2003;box;House;1;1;1;1;1
+2003;box;Car;1;1;1;2;1,25
+2003;box;Art;1;1;1;1;1
+2003;box;Helmet;1;1;2;2;1,5
+2003;box;Lift;1;1;1;1;1
+2003;box;Zoo;2;3;2;2;2,25
+2003;box;Weapon;1;1;1;1;1
+2003;box;Aquarium;3;2;2;3;2,5
+2003;box;Armor;1;1;2;2;1,5
+2003;box;Sled;1;1;1;1;1
+2003;box;Pail;1;1;1;2;1,25
+2003;box;Pads;3;2;1;2;2
+2003;box;Boat;1;1;1;2;1,25
+2003;box;Shovel;1;2;2;3;2
+2003;box;Stacking;1;1;1;1;1
+2003;box;Shield;1;1;2;2;1,5
+2003;box;Water Bottle;2;2;2;2;2
+2003;box;Shipping tool;1;1;1;1;1
+2004;box;use several of them and make a robot costume;2;1;2;2;1,75
+2004;box;get several of them and make a play house;1;1;1;1;1
+2004;box;turn it into an astronauts helmet;2;3;2;3;2,5
+2004;box;have tiny and turn them into flower pots;2;2;2;2;2
+2004;box;poke holes and stick a light in it and use it as a disco;4;4;3;4;3,75
+2004;box;use it as a chair;1;1;1;1;1
+2005;box;toy;1;1;1;1;1
+2005;box;hat;1;1;1;1;1
+2005;box;storage;1;1;1;1;1
+2005;box;shade;2;2;2;2;2
+2005;box;umbrella;1;1;1;2;1,25
+2005;box;shield;1;1;2;2;1,5
+2005;box;playpen;1;1;1;2;1,25
+2006;box;table;1;1;1;1;1
+2006;box;shoes;1;1;1;1;1
+2006;box;fort;1;1;1;1;1
+2006;box;props;1;2;2;3;2
+2006;box;stairs;1;1;2;1;1,25
+2006;box;armor;1;1;2;2;1,5
+2006;box;Raft;2;2;1;2;1,75
+2006;box;dumb waiter;1;5;3;3;3
+2006;box;umbrella;1;1;1;2;1,25
+2006;box;giant dice;3;3;3;3;3
+2007;box;hat;1;1;1;1;1
+2007;box;home if it is big enough;1;1;1;1;1
+2007;box;drawer;2;1;1;2;1,5
+2007;box;seat;1;1;1;1;1
+2007;box;shelf;2;1;1;2;1,5
+2007;box;to block;1;1;1;1;1
+2007;box;costume;1;1;1;2;1,25
+2007;box;tunnel;2;1;2;2;1,75
+2007;box;foot stool;1;1;1;1;1
+2007;box;go cart;1;1;1;3;1,5
+2007;box;side table;1;1;1;1;1
+2007;box;play toy;1;1;1;2;1,25
+2007;box;bird house;3;1;2;3;2,25
+2007;box;dog house;1;1;1;1;1
+2007;box;burning material;1;2;2;2;1,75
+2007;box;garbage can;1;1;1;1;1
+2008;box;toss like a ball;1;1;2;1;1,25
+2008;box;hat;1;1;1;1;1
+2008;box;drum;1;2;2;3;2
+2008;box;seat;1;1;1;1;1
+2008;box;diorama;2;3;2;3;2,5
+2008;box;music amplifier;3;3;2;3;2,75
+2008;box;balance beam;2;3;2;2;2,25
+2008;box;stepping stool;1;1;1;1;1
+2008;box;TV stand;2;1;1;2;1,5
+2008;box;cut up and use as a dancefloor;1;2;2;3;2
+2010;box;Table;1;1;1;1;1
+2010;box;Bed;1;1;1;1;1
+2010;box;House;1;1;1;1;1
+2010;box;Vehicle;2;1;1;2;1,5
+2010;box;Pillow;1;1;2;2;1,5
+2010;box;Chair;1;1;1;1;1
+2010;box;Stage;2;2;2;3;2,25
+2010;box;Step;1;1;1;1;1
+2010;box;Arm Rest;2;1;2;3;2
+2011;box;hat;1;1;1;1;1
+2011;box;instrument;1;1;2;2;1,5
+2011;box;weapon;1;1;1;1;1
+2011;box;Building Material;1;1;1;2;1,25
+2012;box;as a weight;2;1;2;1;1,5
+2012;box;shelter;1;1;1;1;1
+2012;box;to climb on;1;1;2;1;1,25
+2012;box;as a floor rug;2;1;2;2;1,75
+2012;box;bulletproof material;2;1;2;2;1,75
+2012;box;make a plane out of;1;1;1;3;1,5
+2012;box;a ramp to use for tricks/stunts;2;2;2;3;2,25
+2012;box;As a mini fridge stand  a ladder  shelter;1;1;2;2;1,5
+2012;box;make a car out of;1;1;1;2;1,25
+2012;box;to cut and from other objects from;1;1;2;1;1,25
+2013;box;flower pot;2;2;2;2;2
+2013;box;build a mansion;1;1;2;2;1,5
+2013;box;build a raft;2;2;1;3;2
+2014;box;table;1;1;1;1;1
+2014;box;seat;1;1;1;1;1
+2014;box;temporary/disposable plates;3;2;2;2;2,25
+2014;box;organizer for computer wires;2;1;1;2;1,5
+2014;box;biodegradable portable garden;3;3;3;3;3
+2014;box;step stool;1;1;1;1;1
+2014;box;reconstructed as a wagon;2;2;1;3;2
+2014;box;fairy village;2;4;3;3;3
+2014;box;giant Lego;3;3;3;3;3
+2014;box;pet house;1;1;1;1;1
+2014;box;makeshift armor;1;1;2;2;1,5
+2015;box;table;1;1;1;1;1
+2015;box;bed;1;1;1;1;1
+2015;box;car;1;1;1;2;1,25
+2015;box;chairs;1;1;1;1;1
+2015;box;costume;1;1;1;2;1,25
+2015;box;football;1;1;2;1;1,25
+2015;box;skirt;1;1;2;2;1,5
+2015;box;scarf;1;1;2;2;1,5
+2015;box;robot suit;2;1;2;2;1,75
+2015;box;ceiling storage;2;1;1;1;1,25
+2016;box;hat;1;1;1;1;1
+2016;box;belt;2;2;2;2;2
+2016;box;robot;2;1;2;2;1,75
+2017;box;fort;1;1;1;1;1
+2017;box;drawer;2;1;1;2;1,5
+2017;box;jewelry;1;1;1;1;1
+2017;box;bed;1;1;1;1;1
+2017;box;car;1;1;1;2;1,25
+2017;box;helmet;1;1;2;2;1,5
+2017;box;robot;2;1;2;2;1,75
+2017;box;wardrobe;1;1;1;2;1,25
+2017;box;shelter;1;1;1;1;1
+2017;box;spaceship;1;1;1;2;1,25
+2017;box;cabinet;1;1;1;2;1,25
+2017;box;habitat;2;1;1;1;1,25
+2018;box;a house;1;1;1;1;1
+2018;box;dress;1;1;1;1;1
+2018;box;robot costume;2;1;2;2;1,75
+2018;box;packing peanuts;1;1;1;2;1,25
+2018;box;as bread slices;1;1;3;2;1,75
+2018;box;a very large die;3;3;4;3;3,25
+2019;box;Hat;1;1;1;1;1
+2019;box;Fan;2;2;2;3;2,25
+2019;box;Pillow;1;1;2;2;1,5
+2019;box;Chair;1;1;1;1;1
+2019;box;Ladder;1;1;2;2;1,5
+2019;box;Umbrella;1;1;1;2;1,25
+2019;box;Dogs house;1;1;1;1;1
+2020;box;tent;2;1;1;2;1,5
+2020;box;cave;2;1;2;2;1,75
+2020;box;playground;1;1;1;1;1
+2020;box;boat;1;1;1;2;1,25
+2020;box;puppet stage;2;3;2;3;2,5
+2020;box;step stool;1;1;1;1;1
+2020;box;cat holder;1;1;1;1;1
+2021;box;mask;1;2;2;3;2
+2021;box;step stool;1;1;1;1;1
+2021;box;create a dam;2;2;3;3;2,5
+2021;box;Play toy i.e. Fort  Rocketship;2;1;1;2;1,5
+2021;box;Cat house;1;1;1;1;1
+2021;box;Kindling material for fire;2;2;1;2;1,75
+2022;box;a hat;1;1;2;1;1,25
+2022;box;Have it house a computer;2;1;2;2;1,75
+2022;box;Line with a plastic bag so you can carry fish more easily;4;3;2;4;3,25
+2022;box;have the top and sides fold out so its flat and has a diorama inside;2;2;2;3;2,25
+2023;box;Fan;2;2;2;3;2,25
+2023;box;Airplane;1;1;2;2;1,5
+2023;box;Bench;1;1;1;2;1,25
+2023;box;Canvas;1;1;1;2;1,25
+2023;box;Clothing;1;1;1;1;1
+2023;box;Instrument;1;1;2;2;1,5
+2023;box;Sled;1;1;1;1;1
+2023;box;Shelter;1;1;1;1;1
+2023;box;Planter for plants;2;2;2;2;2
+2023;box;Blanket;1;1;2;2;1,5
+2024;box;desk;1;1;1;2;1,25
+2024;box;table;1;1;1;1;1
+2024;box;frame;2;1;2;3;2
+2024;box;Fort;1;1;1;1;1
+2024;box;Wall;1;1;2;1;1,25
+2024;box;house;1;1;1;1;1
+2024;box;bumper;4;2;2;2;2,5
+2024;box;cabinet;1;1;1;2;1,25
+2024;box;shield;1;1;2;2;1,5
+2024;box;ball pin;1;1;1;3;1,5
+2025;box;hat;1;1;1;1;1
+2025;box;table;1;1;1;1;1
+2025;box;pet;1;1;2;1;1,25
+2025;box;house;1;1;1;1;1
+2025;box;car;1;1;1;2;1,25
+2025;box;shelf;2;1;1;2;1,5
+2025;box;stool;1;1;1;1;1
+2025;box;wagon;2;2;1;3;2
+2025;box;train;1;1;2;2;1,5
+2025;box;doghouse;1;1;1;1;1
+2025;box;playhouse;1;1;1;1;1
+2025;box;spaceship;1;1;1;2;1,25
+2025;box;umbrella;1;1;1;2;1,25
+2025;box;surfboard;2;2;2;3;2,25
+2025;box;dog bed;1;1;1;1;1
+2026;box;To use to make yourself into a rowboat;2;1;2;2;1,75
+2026;box;Use it to play games;1;1;1;1;1
+2026;box;To use as a peg leg;3;3;3;3;3
+2026;box;Put a cat in it;1;1;1;1;1
+2026;box;To make into a Halloween outfit;1;2;2;2;1,75
+2026;box;Hide small presents inside;1;1;2;2;1,5
+2026;box;To Paint for a center piece;3;2;2;2;2,25
+2026;box;To put it on top of your pets;1;1;2;1;1,25
+2026;box;To fit a person inside;1;1;1;1;1
+2026;box;To put on top of a person;1;1;2;1;1,25
+2027;box;Use it as a floor mate;1;1;1;2;1,25
+2027;box;Can be used when cleaning to et in between small cracks and corners;3;4;2;3;3
+2027;box;Can be used to prevent scratches on floor;3;3;2;2;2,5
+2027;box;use it as a homemade picture frame;2;2;2;3;2,25
+2027;box;Use it as a way to relax Put it over your head and think;2;2;2;3;2,25
+2028;box;table;1;1;1;1;1
+2028;box;audio;2;2;2;3;2,25
+2028;box;bed;1;1;1;1;1
+2028;box;canvas;1;1;1;2;1,25
+2028;box;platform;1;2;2;2;1,75
+2028;box;chair;1;1;1;1;1
+2028;box;boat;1;1;1;2;1,25
+2028;box;Shield;1;1;2;2;1,5
+2028;box;time machine;2;1;2;2;1,75
+2029;box;hat;1;1;1;1;1
+2029;box;hat;1;1;1;1;1
+2029;box;weapon;1;1;1;1;1
+2029;box;pedestal;1;1;2;2;1,5
+2029;box;terrarium;3;3;2;3;2,75
+2029;box;Jenga piece;3;1;2;3;2,25
+2029;box;puppet theater;2;3;2;3;2,5
+2029;box;turtle shell;3;3;2;3;2,75
+2029;box;crap collector;1;1;2;1;1,25
+2029;box;shoe holder;1;1;1;1;1
+2029;box;tiny house;1;1;2;1;1,25
+2029;box;brick in fort;1;1;2;1;1,25
+2029;box;pet bed;1;1;1;1;1
+2030;box;Fort;1;1;1;1;1
+2030;box;Seat;1;1;1;1;1
+2030;box;Play area for an animal;2;1;1;2;1,5
+2030;box;House;1;1;1;1;1
+2030;box;Cut up and design things with;1;1;1;2;1,25
+2030;box;Eat out of;1;1;2;1;1,25
+2030;box;Color on;1;1;1;2;1,25
+2030;box;Boat;1;1;1;2;1,25
+2030;box;Treasure Chest;2;1;2;2;1,75
+2030;box;Hideout;1;1;2;2;1,5
+2030;box;Time Capsule;2;1;2;3;2
+2030;box;Foot Stool;1;1;1;1;1
+2030;box;Part of a costume;1;1;2;2;1,5
+2030;box;Reuse for presents;1;1;1;1;1
+2031;box;using multiple to build a transpiration object  such as a plane;2;2;1;2;1,75
+2031;box;Poking holes in it to use as a Filter if metal;3;5;3;4;3,75
+2031;box;Fighting with a;1;2;1;3;1,75
+2031;box;House/Living;1;1;1;1;1
+2031;box;Using as a wheel;2;1;2;2;1,75
+2032;box;Table;1;1;1;1;1
+2032;box;Cage;1;1;1;1;1
+2032;box;House;1;1;1;1;1
+2032;box;goal;3;1;2;2;2
+2032;box;Bookcase;2;1;1;2;1,5
+2032;box;cover;1;2;1;1;1,25
+2032;box;Chair;1;1;1;1;1
+2032;box;Matt;1;1;1;1;1
+2033;box;table;1;1;1;1;1
+2033;box;break down and tear into pieces for a collage;1;2;2;3;2
+2033;box;jump on it;1;1;1;1;1
+2033;box;build an accordion;4;3;2;4;3,25
+2033;box;chair or stool;1;1;1;1;1
+2033;box;use it to go over Niagara falls;2;3;3;4;3
+2033;box;wear it as a hat;1;2;1;1;1,25
+2033;box;delaminate the cardboard and write a magnum opus;2;5;4;4;3,75
+2033;box;wear it as a dress;1;2;2;1;1,5
+2033;box;put it out to catch a troll;1;4;3;4;3
+2033;box;use it as a cape;1;2;3;2;2
+2033;box;break it down and sleep o it;1;1;2;1;1,25
+2034;box;hat;1;1;1;1;1
+2034;box;table;1;1;1;1;1
+2034;box;container;1;1;1;1;1
+2034;box;shelf;2;1;1;2;1,5
+2034;box;stool;1;1;1;1;1
+2034;box;costume;1;1;1;2;1,25
+2034;box;floatation device;3;3;2;3;2,75
+2034;box;barrier;1;1;1;2;1,25
+2034;box;playpen;1;1;1;2;1,25
+2034;box;organizer;1;1;1;1;1
+2034;box;recycling bin;1;1;1;1;1
+2034;box;side table;1;1;1;1;1
+2034;box;club house;1;1;1;3;1,5
+2035;box;floor covering painting;2;1;2;2;1,75
+2035;box;moving;1;1;1;1;1
+2035;box;shack;1;1;1;2;1,25
+2035;box;sled;1;1;1;1;1
+2035;box;mat;1;1;1;2;1,25
+2035;box;forts;1;1;1;1;1
+2035;box;store things;1;1;1;1;1
+2035;box;make signs;1;1;1;2;1,25
+2036;box;hat;1;1;1;1;1
+2036;box;plate;2;1;2;1;1,5
+2036;box;shoes;1;1;1;1;1
+2036;box;jewelry;1;1;1;1;1
+2036;box;house;1;1;1;1;1
+2036;box;food;1;1;2;1;1,25
+2036;box;tray;2;1;2;2;1,75
+2036;box;art;1;1;1;1;1
+2036;box;pillow;1;1;2;2;1,5
+2036;box;cup;1;1;2;2;1,5
+2036;box;cooking utensil;1;1;2;2;1,5
+2036;box;flooring;1;1;2;2;1,5
+2036;box;bedding;2;1;2;1;1,5
+2036;box;transportation;1;2;1;1;1,25
+2036;box;flotation device;3;2;2;3;2,5
+2036;box;form of communication;2;2;2;3;2,25
+2037;box;use for sledding when there is snow;1;1;1;1;1
+2037;box;hold your Christmas tree  so that the plastic parts fall in to the;2;1;2;3;2
+2039;box;hat;1;1;1;1;1
+2039;box;table;1;1;1;1;1
+2039;box;plate;2;1;2;1;1,5
+2039;box;padding;3;1;1;2;1,75
+2039;box;insulation;3;1;2;2;2
+2039;box;patching material;2;2;2;3;2,25
+2039;box;alternative to painters paper;1;1;2;3;1,75
+2039;box;kindling for fire;2;2;1;2;1,75
+2039;box;Halloween costume;1;1;2;2;1,5
+2039;box;cat toy;1;1;1;2;1,25
+2039;box;trash can;1;1;1;1;1
+2040;box;hat;1;1;1;1;1
+2040;box;table;1;1;1;1;1
+2040;box;cart;1;2;1;2;1,5
+2040;box;cart;1;2;1;2;1,5
+2040;box;lamp;2;2;2;2;2
+2040;box;shirt;1;1;2;1;1,25
+2040;box;armor;1;1;2;2;1,5
+2040;box;boat;1;1;1;2;1,25
+2040;box;shield;1;1;2;2;1,5
+2040;box;step stool;1;1;1;1;1
+2040;box;window shutter;2;2;2;2;2
+2040;box;door stop;1;1;2;1;1,25
+2040;box;building block;1;1;1;2;1,25
+2041;box;Put a cat in;1;1;1;1;1
+2041;box;take apart and use as a sled;1;2;1;1;1,25
+2041;box;put between you and someone you don't want to talk to;1;2;3;4;2,5
+2042;box;cut it and fold it into an umbrella to keep you dry;2;2;2;3;2,25
+2042;box;burn it and use the ashes mixed with water as a writing substance;2;5;3;4;3,5
+2042;box;teleportation device to transfer goods to the homeless;1;2;3;3;2,25
+2042;box;chop it up and use it as insulation;3;1;2;3;2,25
+2043;box;drum;1;2;2;3;2
+2043;box;guitar add strings;4;5;2;3;3,5
+2043;box;shoes Shoebox;1;1;1;1;1
+2043;box;sled;1;1;1;1;1
+2043;box;makeshift litterbox;2;1;1;2;1,5
+2043;box;lampshade;2;2;2;3;2,25
+2043;box;play mat unfolded;1;2;2;2;1,75
+2043;box;flower pot;2;2;2;2;2
+2043;box;Cut into wings;2;2;2;3;2,25
+2043;box;racecar;1;2;1;2;1,5
+2043;box;dog bed;2;1;1;1;1,25
+2043;box;art canvas;1;1;2;2;1,5
+2043;box;shelter/cover;1;1;1;1;1
+2043;box;play house;1;1;1;1;1
+2044;box;hat;1;1;1;1;1
+2044;box;car;1;1;1;2;1,25
+2044;box;super Mario costume;2;3;3;3;2,75
+2044;box;used to lock up ghosts;3;3;3;4;3,25
+2044;box;sled;1;1;1;1;1
+2044;box;haute couture;1;3;2;3;2,25
+2044;box;interdimensional portal;2;3;3;4;3
+2044;box;Time machine;2;1;2;2;1,75
+2044;box;tubes connecting a tree house;4;1;3;3;2,75
+2045;box;painting drop cloth;2;2;2;3;2,25
+2045;box;square edge for measurement;3;3;2;3;2,75
+2045;box;snow sled;1;1;1;1;1
+2045;box;Halloween costume;1;1;2;2;1,5
+2045;box;Dog Bed;2;1;1;1;1,25
+2045;box;degradable planting container;3;3;3;4;3,25
+2045;box;exercise tool;2;2;1;1;1,5
+2045;box;child's toy racecar;3;1;1;3;2
+2046;box;Cutting it into smaller squares and adding more sides to those until you have multiple tiny;2;1;4;2;2,25
+2046;box;Grating it with a cheese grater;2;3;3;4;3
+2046;box;cutting of the flaps and strapping them on the back of a squirrel and pretending its a bird;3;4;3;4;3,5
+2046;box;dinner plate;2;1;2;2;1,75
+2046;box;Soggy hat in the rain;2;2;2;3;2,25
+2046;box;Get a lot of them in different sizes and make Russian Nesting Dolls;3;4;2;4;3,25
+2047;box;window;1;1;2;2;1,5
+2047;box;tv;2;1;1;2;1,5
+2047;box;drum;1;2;2;3;2
+2047;box;bed;1;1;1;1;1
+2047;box;mind;1;1;3;1;1,5
+2047;box;instrument;1;1;2;2;1,5
+2047;box;spaceship;1;1;1;2;1,25
+2047;box;learning;1;1;1;1;1
+2047;box;boat;1;1;1;2;1,25
+2047;box;UFO;2;2;2;2;2
+2047;box;treasure chest;2;1;2;2;1,75
+2047;box;black hole;2;3;3;3;2,75
+2047;box;balance beam;2;3;2;2;2,25
+2047;box;step stool;1;1;1;1;1
+2047;box;cat house;1;1;1;1;1
+2047;box;computer screen;1;1;2;2;1,5
+2047;box;Christmas present;1;1;2;1;1,25
+2048;box;as a demonstration of the concept of volume;3;1;3;3;2,5
+2048;box;as a vehicle;1;1;1;2;1,25
+2048;box;as compost material;3;3;2;2;2,5
+2048;box;as a time machine;1;1;2;2;1,5
+2048;box;as material for a sculpture;1;2;2;2;1,75
+2048;box;as a form of shelter;1;1;1;1;1
+2048;box;as a last name;2;1;3;3;2,25
+2048;box;as tinder to start a fire;1;2;1;2;1,5
+2048;box;as a piece of clothing;1;1;2;1;1,25
+2049;box;Seat;1;1;1;1;1
+2049;box;Theme for a theme park;3;3;3;3;3
+2049;box;Sled;1;1;1;1;1
+2049;box;Cave;2;1;2;2;1,75
+2049;box;Shovel;1;2;2;3;2
+2049;box;Treasure Chest;2;1;2;2;1,75
+2049;box;Habitat for a mouse;2;1;2;2;1,75
+2049;box;Rocket Fuel;1;1;2;3;1,75
+2049;box;Board as in a blackboard for a classroom;1;1;2;3;1,75
+2050;box;imaginary cave;2;1;2;3;2
+2050;box;cat playhouse;1;1;1;2;1,25
+2050;box;play tunnel;2;1;2;2;1,75
+2050;box;alien helmet;2;1;2;2;1,75
+2050;box;drawing canvas;1;1;1;2;1,25
+2050;box;garden compost;3;4;2;3;3
+2050;box;giant dice;3;3;3;3;3
+2051;box;hat;1;1;1;1;1
+2051;box;locker;1;1;1;2;1,25
+2051;box;house;1;1;1;1;1
+2051;box;canvas;1;1;1;2;1,25
+2051;box;home for a vagabond;1;1;1;1;1
+2051;box;cat scratching post;1;1;1;3;1,5
+2051;box;wardrobe;1;1;1;2;1,25
+2051;box;trampoline;3;3;2;3;2,75
+2051;box;ant kingdom;3;3;2;4;3
+2051;box;snake house;2;1;2;2;1,75
+2051;box;keeping towels;1;1;1;1;1
+2051;box;imaginarium;3;1;2;3;2,25
+2051;box;dinner plate;2;1;2;2;1,75
+2051;box;pretend car;1;1;1;2;1,25
+2051;box;graffiti target;2;1;2;3;2
+2051;box;keeping clothes;1;1;1;1;1
+2051;box;pet house;1;1;1;1;1
+2051;box;storing letters;1;1;1;1;1
+2051;box;trash can;1;1;1;1;1
+2051;box;shooting practice;1;1;2;2;1,5
+2051;box;use it for exercise;2;1;1;1;1,25
+2051;box;play house;1;1;1;1;1
+2051;box;book bag;2;1;2;2;1,75
+2052;box;House;1;1;1;1;1
+2052;box;Mouse Catcher;2;1;2;3;2
+2052;box;Step Stool;1;1;1;1;1
+2053;box;Door;1;1;2;1;1,25
+2053;box;Computer;2;1;2;2;1,75
+2053;box;Wall;1;1;2;1;1,25
+2053;box;Toilet;2;1;1;1;1,25
+2053;box;Airplane;1;1;2;2;1,5
+2053;box;Bed;1;1;1;1;1
+2053;box;Car;1;1;1;2;1,25
+2053;box;Bench;1;1;1;2;1,25
+2053;box;Furniture;1;1;1;1;1
+2053;box;Oven;1;1;2;3;1,75
+2053;box;Refrigerator;1;1;2;2;1,5
+2053;box;Sink;1;1;2;1;1,25
+2053;box;Stove;1;1;2;2;1,5
+2053;box;Clock;2;2;2;2;2
+2053;box;Fork;1;1;2;1;1,25
+2053;box;Weapon;1;1;1;1;1
+2053;box;Rank;1;1;1;1;1
+2053;box;Bus;1;1;2;2;1,5
+2053;box;Classroom;1;1;2;2;1,5
+2053;box;Shelter;1;1;1;1;1
+2053;box;Pail;1;1;1;2;1,25
+2053;box;Raft;2;2;1;2;1,75
+2053;box;Boat;1;1;1;2;1,25
+2053;box;Flooring;1;1;2;2;1,5
+2053;box;Shovel;1;2;2;3;2
+2053;box;Blanket;1;1;2;2;1,5
+2053;box;Roofing;2;1;2;3;2
+2053;box;Writing Utensil;1;1;2;2;1,5
+2053;box;Dog Cage;1;1;1;1;1
+2053;box;Gas Pump;2;2;2;3;2,25
+2053;box;Power Outlet;1;1;2;3;1,75
+2053;box;Vending Machine;4;2;2;3;2,75
+2053;box;Food Storage;1;1;1;1;1
+2053;box;Presentation Platform;1;3;2;3;2,25
+2053;box;Cell Phone;1;2;2;2;1,75
+2054;box;room;1;1;2;1;1,25
+2054;box;as a ball;1;1;2;1;1,25
+2054;box;a table;1;1;1;1;1
+2054;box;food;1;1;2;1;1,25
+2054;box;roll in;1;1;2;2;1,5
+2054;box;sit on;1;1;1;1;1
+2054;box;a stand;1;1;1;1;1
+2054;box;lighting;2;1;2;3;2
+2054;box;cushion;2;1;2;2;1,75
+2054;box;stair;1;1;2;1;1,25
+2054;box;speaker holder;2;1;2;2;1,75
+2054;box;to play fetch;1;1;1;1;1
+2055;box;hat;1;1;1;1;1
+2055;box;table;1;1;1;1;1
+2055;box;crate;1;1;1;1;1
+2055;box;storage;1;1;1;1;1
+2055;box;sled;1;1;1;1;1
+2055;box;boat;1;1;1;2;1,25
+2055;box;lamp shade;2;2;2;3;2,25
+2055;box;floor cover;2;1;2;2;1,75
+2055;box;filing cabinet;2;1;1;3;1,75
+2056;box;table;1;1;1;1;1
+2056;box;house;1;1;1;1;1
+2056;box;garden;2;2;1;2;1,75
+2056;box;stool;1;1;1;1;1
+2056;box;sled;1;1;1;1;1
+2056;box;lunchbox;1;1;1;1;1
+2056;box;puppet show;2;3;2;3;2,5
+2056;box;plant pot;2;2;2;2;2
+2056;box;baby bed;2;1;2;2;1,75
+2056;box;paint face on;1;1;2;2;1,5
+2056;box;dog house;1;1;1;1;1
+2057;box;Fort;1;1;1;1;1
+2057;box;House;1;1;1;1;1
+2057;box;sled;1;1;1;1;1
+2057;box;shelter;1;1;1;1;1
+2057;box;Frisbee target;1;2;2;3;2
+2057;box;lacrosse goal;3;1;2;3;2,25
+2057;box;Hiding spot;1;1;2;2;1,5
+2057;box;puppet house;2;3;2;3;2,5
+2057;box;jump out of to surprise;1;1;2;2;1,5
+2057;box;hockey goal;3;1;2;3;2,25
+2057;box;soccer goal;3;1;2;3;2,25
+2057;box;shooting target;1;1;2;2;1,5
+2057;box;put present in;1;1;1;1;1
+2058;box;Throw it like a ball;1;1;2;1;1,25
+2058;box;Use it to jack up a car;1;2;2;2;1,75
+2058;box;Make a beehive;4;3;3;3;3,25
+2058;box;Make a shower curtain;2;1;3;3;2,25
+2058;box;Sit on it;1;1;1;1;1
+2058;box;raft;2;2;1;2;1,75
+2058;box;Keep a snake in it;2;1;2;1;1,5
+2058;box;Make a maze;2;2;2;4;2,5
+2058;box;bird feeder;3;2;2;3;2,5
+2058;box;Wear as a hat;1;2;1;1;1,25
+2058;box;Wear it as a costume;1;2;1;2;1,5
+2058;box;Use it as a sled;1;1;1;1;1
+2058;box;Practice boxing;2;3;2;3;2,5
+2059;box;paper;1;1;1;2;1,25
+2059;box;hat;1;1;1;1;1
+2059;box;container;1;1;1;1;1
+2059;box;roof;2;1;2;3;2
+2059;box;fort;1;1;1;1;1
+2059;box;seat;1;1;1;1;1
+2059;box;house;1;1;1;1;1
+2059;box;suitcase;1;1;1;2;1,25
+2059;box;fence;1;1;2;3;1,75
+2059;box;costume;1;1;1;2;1,25
+2059;box;hide;1;1;2;2;1,5
+2059;box;kite;3;2;2;3;2,5
+2059;box;throne;2;2;2;3;2,25
+2059;box;calendar;1;1;2;3;1,75
+2059;box;mat;1;1;1;2;1,25
+2059;box;divider;1;1;2;2;1,5
+2059;box;umbrella;1;1;1;2;1,25
+2059;box;surfboard;2;2;2;3;2,25
+2059;box;filler material;2;2;1;2;1,75
+2059;box;flower bed;2;2;2;2;2
+2059;box;fire starter;1;2;1;2;1,5
+2059;box;paper towel;1;1;2;3;1,75
+2060;box;fake fire place;1;3;2;3;2,25
+2060;box;ant farm;3;3;2;3;2,75
+2060;box;turtle shell;3;3;2;3;2,75
+2060;box;bear trap;2;3;2;3;2,5
+2060;box;race car;1;2;1;2;1,5
+2061;box;desk;1;1;1;2;1,25
+2061;box;hat;1;1;1;1;1
+2061;box;table;1;1;1;1;1
+2061;box;shoes;1;1;1;1;1
+2061;box;fort;1;1;1;1;1
+2061;box;toilet;2;1;1;1;1,25
+2061;box;bed;1;1;1;1;1
+2061;box;house;1;1;1;1;1
+2061;box;shelf;2;1;1;2;1,5
+2061;box;couch;2;1;2;2;1,75
+2061;box;dress;1;1;2;2;1,5
+2061;box;stool;1;1;1;1;1
+2061;box;stand;1;1;1;1;1
+2061;box;chair;1;1;1;1;1
+2061;box;sled;1;1;1;1;1
+2061;box;outfit;1;1;2;1;1,25
+2061;box;self;1;1;1;1;1
+2061;box;shield;1;1;2;2;1,5
+2061;box;pet bed;1;1;1;1;1
+2061;box;hold clothes;1;1;1;1;1
+2062;box;Pretend its a shield;1;1;2;2;1,5
+2062;box;Make a robot;2;1;2;2;1,75
+2062;box;Make a fort;1;1;1;1;1
+2062;box;Make a costume;1;1;1;2;1,25
+2062;box;Flatten it and make a sled;1;1;2;1;1,25
+2062;box;Make it a drum;1;2;1;3;1,75
+2062;box;Make a soccer  basketball goal;3;1;2;3;2,25
+2063;box;put it over an area to kill the plant growth;3;4;2;4;3,25
+2063;box;house small pets;1;1;1;1;1
+2063;box;flatten and use as surface to bare down on;1;1;2;2;1,5
+2063;box;giant manual fan;3;3;2;4;3
+2063;box;stair sled;1;1;1;3;1,5
+2063;box;a small sandbox;2;3;2;3;2,5
+2063;box;cigarette filter;3;3;2;3;2,75
+2063;box;used to create a sound absorbing recording studio;4;3;3;4;3,5
+2064;box;Storage;1;1;1;1;1
+2064;box;stand;1;1;1;1;1
+2064;box;chair;1;1;1;1;1
+2064;box;steps;1;1;1;1;1
+2064;box;robot costume;2;1;2;2;1,75
+2064;box;nightstand;1;1;1;2;1,25
+2064;box;alien costume;2;1;2;2;1,75
+2064;box;door prop;1;1;2;1;1,25
+2064;box;play television;1;1;1;2;1,25
+2064;box;workout equipment;2;1;1;2;1,5
+2064;box;display case;1;1;1;3;1,5
+2064;box;play house;1;1;1;1;1
+2065;box;Build a spaceship  use it as a sled  a makeshift tent when camping  to make a robot costume;2;1;2;1;1,5
+2066;box;a mask;1;1;2;3;1,75
+2066;box;a sled;1;1;2;1;1,25
+2066;box;a very ineffective helmet;1;2;3;3;2,25
+2066;box;a source of cardboard to make other things;1;1;2;1;1,25
+2066;box;A shadow that can be hung on the wall;2;2;2;3;2,25
+2066;box;A miniature house for a small pet;2;1;1;2;1,5
+2066;box;something to put heavy things in and slide them across the floor more easily;3;1;1;3;2
+2067;box;desk;1;1;1;2;1,25
+2067;box;doghouse;1;1;1;1;1
+2067;box;sled;1;1;1;1;1
+2067;box;play fort;1;1;1;1;1
+2067;box;punching bag;2;3;2;3;2,5
+2067;box;writing to do lists;1;1;2;3;1,75
+2067;box;target practice;2;1;2;2;1,75
+2068;box;bed;1;1;1;1;1
+2068;box;Car;1;1;1;2;1,25
+2068;box;purse;1;1;2;1;1,25
+2068;box;playhouse;1;1;1;1;1
+2068;box;earring;2;1;2;2;1,75
+2071;box;window;1;1;2;2;1,5
+2071;box;hat;1;1;1;1;1
+2071;box;table;1;1;1;1;1
+2071;box;shoes;1;1;1;1;1
+2071;box;fort;1;1;1;1;1
+2071;box;canvas;1;1;1;2;1,25
+2071;box;chair;1;1;1;1;1
+2071;box;stage;2;2;2;3;2,25
+2071;box;cave;2;1;2;2;1,75
+2071;box;boat;1;1;1;2;1,25
+2071;box;shield;1;1;2;2;1,5
+2071;box;candle holder;2;2;2;3;2,25
+2071;box;projector when you cut out the hole;3;4;2;4;3,25
+2072;box;Home;1;1;1;1;1
+2072;box;Plate;2;1;2;1;1,5
+2072;box;Food;1;1;2;1;1,25
+2072;box;Make a play town for small animals;2;1;2;4;2,25
+2072;box;Wings;2;2;2;2;2
+2072;box;Casket;2;2;2;2;2
+2072;box;Marker;1;1;2;2;1,5
+2072;box;Art;1;1;1;1;1
+2072;box;Dance on;1;1;2;3;1,75
+2072;box;Clock;2;2;2;2;2
+2072;box;Clothes;1;1;1;1;1
+2072;box;Patterns;1;1;2;1;1,25
+2072;box;Filter;3;3;2;3;2,75
+2072;box;Shovel;1;2;2;3;2
+2072;box;Elephant ears;4;3;3;4;3,5
+2072;box;Pizza tray;2;2;2;3;2,25
+2072;box;Design weaponry;1;1;1;2;1,25
+2072;box;Make hats;1;1;1;2;1,25
+2073;box;hat;1;1;1;1;1
+2073;box;storage;1;1;1;1;1
+2073;box;poster;2;1;2;2;1,75
+2073;box;a clubhouse;1;1;2;2;1,5
+2073;box;costume;1;1;1;2;1,25
+2073;box;chair;1;1;1;1;1
+2073;box;sled;1;1;1;1;1
+2073;box;ottoman;2;1;1;2;1,5
+2073;box;flower pot;2;2;2;2;2
+2073;box;step stool;1;1;1;1;1
+2073;box;dog pen;1;1;1;1;1
+2074;box;Fort;1;1;1;1;1
+2074;box;Stool;1;1;1;1;1
+2074;box;Costume;1;1;1;2;1,25
+2074;box;Painting Canvas;1;1;2;2;1,5
+2074;box;Foot Rest;1;1;1;1;1
+2075;box;using it as notebook paper;1;1;2;2;1,5
+2075;box;rolling the down the hill so it can be chased by a dog;1;3;2;3;2,25
+2075;box;using the as an imaginary space ship into space;2;1;1;2;1,5
+2075;box;using the as a sled;1;1;1;1;1
+2075;box;using the as a jacket;1;2;2;2;1,75
+2075;box;using the  as a hat;1;2;1;1;1,25
+2075;box;using pieces of the to incorporate in mixed medium art;1;2;2;3;2
+2076;box;home;1;1;1;1;1
+2076;box;gift;1;1;1;1;1
+2076;box;storage;1;1;1;1;1
+2076;box;seat;1;1;1;1;1
+2076;box;collecting;1;1;2;1;1,25
+2076;box;cooking;1;1;2;2;1,5
+2076;box;cooking;1;1;2;2;1,5
+2076;box;idea;1;1;1;1;1
+2076;box;decorating;1;1;1;1;1
+2076;box;steps;1;1;1;1;1
+2076;box;shelter;1;1;1;1;1
+2076;box;gathering;1;1;1;1;1
+2076;box;transporting;1;2;1;1;1,25
+2076;box;sandbox;2;2;2;3;2,25
+2076;box;separation;2;1;1;2;1,5
+2076;box;organizing;1;1;1;1;1
+2076;box;shielding;1;1;2;2;1,5
+2076;box;height adjustment;1;2;2;2;1,75
+2077;box;an easel;2;1;2;3;2
+2078;box;Hide away messy/ugly things;1;1;2;2;1,5
+2078;box;use the cardboard for a photo lighting project;3;2;3;3;2,75
+2078;box;Cat home;1;1;1;1;1
+2078;box;A poor person TV stand;1;1;2;3;1,75
+2079;box;hat;1;1;1;1;1
+2079;box;storage;1;1;1;1;1
+2079;box;cage;1;1;1;1;1
+2079;box;shelf;2;1;1;2;1,5
+2079;box;suitcase;1;1;1;2;1,25
+2079;box;chair;1;1;1;1;1
+2079;box;present;1;1;1;1;1
+2079;box;diorama;2;3;2;3;2,5
+2079;box;pedestal;1;1;2;2;1,5
+2079;box;incense;2;2;1;2;1,75
+2079;box;lunchbox;1;1;1;1;1
+2079;box;trashcan;1;1;1;1;1
+2079;box;lampshade;2;2;2;3;2,25
+2079;box;collage material;1;2;2;3;2
+2079;box;dark place;1;1;3;1;1,5
+2079;box;trophy case;2;2;2;3;2,25
+2079;box;doll house;2;1;2;2;1,75
+2079;box;homemade paper;2;1;2;2;1,75
+2080;box;A cardboard place to live after college  a hat  a storage place for more    an obstacle  a sled  a hiding place;1;2;3;2;2
+2081;box;door;1;1;2;1;1,25
+2081;box;fan;2;2;2;3;2,25
+2081;box;fort;1;1;1;1;1
+2081;box;flooring;1;1;2;2;1,5
+2081;box;lamp shade;2;2;2;3;2,25
+2081;box;magic trick;1;1;1;2;1,25
+2081;box;play pen;1;1;1;2;1,25
+2081;box;cat bed;1;1;1;1;1
+2081;box;school project;1;1;1;1;1
+2081;box;fake car;1;1;1;2;1,25
+2081;box;fake computer;1;1;2;2;1,5
+2082;box;storage;1;1;1;1;1
+2082;box;television;2;1;1;1;1,25
+2082;box;house;1;1;1;1;1
+2082;box;library;2;1;1;2;1,5
+2082;box;art;1;1;1;1;1
+2082;box;bookshelf;2;1;1;2;1,5
+2082;box;clothing;1;1;1;1;1
+2082;box;bathtub;1;1;2;2;1,5
+2082;box;wallpaper;1;1;2;3;1,75
+2082;box;skateboard;2;1;2;2;1,75
+2082;box;secret getaway;2;2;3;3;2,5
+2082;box;rocket ship;2;1;2;2;1,75
+2082;box;doll house;2;1;2;2;1,75
+2082;box;hiding place;1;1;2;2;1,5
+2082;box;dog house;1;1;1;1;1
+2082;box;time machine;2;1;2;2;1,75
+2083;box;Storm shelter for a mouse;3;3;2;4;3
+2083;box;Untrustworthy boat;1;2;2;3;2
+2083;box;Stepping stool for a little person;1;1;1;1;1
+2083;box;Hiding place for a birthday present;1;1;2;2;1,5
+2083;box;House for a family of cardboard people;2;3;3;3;2,75
+2083;box;Personal space measurer;2;3;2;3;2,5
+2083;box;Storage for a smaller;1;1;1;1;1
+2084;box;using it as a Frisbee;1;1;2;2;1,5
+2084;box;coloring room;1;1;3;3;2
+2084;box;playing catch;1;1;2;2;1,5
+2084;box;dropping it off a building;1;1;2;2;1,5
+2084;box;using it as a shield;1;1;2;2;1,5
+2084;box;smoking inside it;2;1;2;2;1,75
+2084;box;make it your home;1;1;1;1;1
+2085;box;shoes;1;1;1;1;1
+2085;box;fort;1;1;1;1;1
+2085;box;shelves;2;1;1;2;1,5
+2085;box;color on it;1;1;1;2;1,25
+2085;box;furniture;1;1;1;1;1
+2085;box;art;1;1;1;1;1
+2085;box;clothes;1;1;1;1;1
+2085;box;tunnel;2;1;2;2;1,75
+2085;box;plate/bowl;2;1;2;1;1,5
+2085;box;use it as a stool;1;1;1;1;1
+2085;box;arts and crafts;1;1;1;1;1
+2085;box;holds things;1;1;1;1;1
+2085;box;hide things;1;1;2;2;1,5
+2085;box;make tools;1;1;2;2;1,5
+2085;box;cover things up;1;2;1;1;1,25
+2085;box;use it as a ball;1;1;2;1;1,25
+2086;box;tv;2;1;1;2;1,5
+2086;box;you can kick it around like a ball;1;1;2;1;1,25
+2086;box;you can make a fort out of it;1;2;1;1;1,25
+2086;box;car;1;1;1;2;1,25
+2086;box;spaceship;1;1;1;2;1,25
+2086;box;use it to take out your aggression by completely mutilating the and stomping on it;2;1;2;3;2
+2086;box;you can use it as a chair long as you put something sturdy under it;2;2;1;1;1,5
+2086;box;practice your balance by balancing the  on your head;4;2;3;4;3,25
+2086;box;exercise by jumping in and out of the;2;2;1;1;1,5
+2086;box;hide and seek;1;1;2;2;1,5
+2086;box;you can turn it into dices;3;4;3;3;3,25
+2087;box;table;1;1;1;1;1
+2087;box;food;1;1;2;1;1,25
+2087;box;furniture;1;1;1;1;1
+2087;box;plane;1;1;2;2;1,5
+2087;box;clothing;1;1;1;1;1
+2087;box;Spaceship;1;1;1;2;1,25
+2087;box;skyscraper;1;2;2;2;1,75
+2087;box;dispensers;2;1;2;3;2
+2087;box;shield;1;1;2;2;1,5
+2087;box;Teleporting;1;1;3;2;1,75
+2087;box;Imagination ship;2;1;3;2;2
+2087;box;smart house;1;1;3;2;1,75
+2088;box;Put your head in it for meditation;2;3;2;4;2,75
+2088;box;Cut the edges to make a prism like shape and make a chandelier out of it;3;5;3;4;3,75
+2088;box;Grow plants in it;2;2;2;2;2
+2088;box;Cut it up into slices to make mats;1;2;2;3;2
+2089;box;desk;1;1;1;2;1,25
+2089;box;shoes;1;1;1;1;1
+2089;box;closet;1;1;1;2;1,25
+2089;box;house;1;1;1;1;1
+2089;box;dress;1;1;2;2;1,5
+2089;box;canvas;1;1;1;2;1,25
+2089;box;bowl;1;1;1;2;1,25
+2089;box;helmet;1;1;2;2;1,5
+2089;box;pillow;1;1;2;2;1,5
+2089;box;backpack;2;1;2;2;1,75
+2089;box;balloon;2;1;3;2;2
+2089;box;sled;1;1;1;1;1
+2089;box;A pedestal;1;1;2;1;1,25
+2089;box;dart board;4;3;3;3;3,25
+2089;box;frisbee;1;2;2;3;2
+2089;box;hiding spot;1;1;2;2;1,5
+2089;box;wall art;1;2;2;1;1,5
+2089;box;craft supplies;1;1;1;2;1,25
+2089;box;boxing practice;2;2;2;2;2
+2090;box;Some people could find it interesting to make a hat out of it because the flaps could look like a ball cap and then you could decorate it as much as you wanted to;2;2;1;2;1,75
+2090;box;You can make a house out of a big like the refrigerator one  and carving a door and windows out of it Then you could decorate as much as you want my brother and I have done this in the past;2;2;1;2;1,75
+2091;box;Cut it up and make signs out of the;1;1;1;2;1,25
+2091;box;Use a as a footrest;1;1;1;2;1,25
+2091;box;Use a as a doorstop;1;1;1;1;1
+2091;box;Use a as a storage space;1;1;1;1;1
+2091;box;Use it as a laundry hamper;1;1;1;2;1,25
+2091;box;Use it as a table by taping it up;1;1;1;1;1
+2091;box;Use it to build a fort for kids to play;1;1;1;1;1
+2091;box;Use it as a step stool;1;1;1;1;1
+2091;box;Use it as a chair;1;1;1;1;1
+2091;box;Use it to move;1;1;1;1;1
+2092;box;Cement block mold;2;3;3;3;2,75
+2092;box;Mini garden;2;2;2;3;2,25
+2092;box;Makeshift sled;1;1;1;1;1
+2092;box;A serving dish;2;1;2;2;1,75
+2092;box;A bed for a pet;1;1;1;1;1
+2093;box;Use it as a painting canvas;1;2;2;2;1,75
+2093;box;Use it to tape to the bottom of shoes so they don't get messed up;2;3;1;3;2,25
+2093;box;Cover windshield from snow;5;4;2;2;3,25
+2093;box;Use it to fold clothes neatly;1;1;2;3;1,75
+2093;box;Use it to iron on;2;2;2;3;2,25
+2094;box;table;1;1;1;1;1
+2094;box;seat;1;1;1;1;1
+2094;box;cell phone speaker;3;2;2;3;2,5
+2094;box;dog bath tub;2;1;1;3;1,75
+2094;box;ant farm;3;3;2;3;2,75
+2094;box;protection;2;1;2;2;1,75
+2094;box;soundproofing;4;2;3;3;3
+2095;box;something to cross mud;3;2;2;3;2,5
+2095;box;shelf for a flower pot;2;2;1;3;2
+2095;box;sled;1;1;1;1;1
+2095;box;stencil;1;2;2;3;2
+2095;box;soggy boat;1;2;2;3;2
+2095;box;mouse house;2;1;2;1;1,5
+2096;box;Tupperware replacement for storing food;1;2;1;2;1,5
+2096;box;a replacement for a tortoise shell;3;3;2;4;3
+2096;box;a bath tub;2;1;2;2;1,75
+2096;box;a replacement for a shoe;1;1;2;1;1,25
+2097;box;A wooden could be used as a boat for a small child;1;1;2;3;1,75
+2097;box;A refrigerator  could be a rocket ship;3;1;2;3;2,25
+2097;box;If it has a lid  it could be a talking if one drew a face on it;1;2;2;3;2
+2097;box;If its a wooden  it can be used as a shelving unit on a wall;2;1;1;3;1,75
+2097;box;A small jewelry should be a bed for a mouse;2;2;3;4;2,75
+2098;box;fence;1;1;2;3;1,75
+2098;box;put wheels on it and make it a wheelbarrow;3;3;2;4;3
+2098;box;solar eclipse viewer;3;2;2;4;2,75
+2098;box;umbrella;1;1;1;2;1,25
+2098;box;cat toy;1;1;1;2;1,25
+2098;box;place to hide;1;1;2;2;1,5
+2099;box;kick it as hard as you can  you'll never know where it will bounce;1;1;2;2;1,5
+2099;box;pretend its a racecar;1;1;1;2;1,25
+2099;box;tape it up as a makeshift basketball hoop  got to cut the bottom out;3;2;2;3;2,5
+2099;box;cut off the flaps and use them as wings;2;2;2;3;2,25
+2099;box;Pretend spaceship;2;1;2;2;1,75
+2099;box;wear it on your back like a turtle;3;3;3;2;2,75
+2099;box;cut the bottom out and wear it as armor;1;1;2;2;1,5
+2099;box;put a little  on the end of each hand to feel like an old videogame character;3;4;4;4;3,75
+2099;box;hide inside it to scare people;1;1;2;2;1,5
+2099;box;tape it up and you can mail yourself somewhere;2;1;3;3;2,25
+2099;box;cut eyeholes out and its a helmet;1;1;2;3;1,75
+2100;box;base for a sand castle;2;3;2;3;2,5
+2100;box;Hat for the tin man;2;2;2;3;2,25
+2100;box;a computer parts storage;1;1;1;1;1
+2100;box;sled;1;1;1;1;1
+2100;box;shield;1;1;2;2;1,5
+2100;box;a canoe;2;2;1;3;2
+2100;box;container to hold birds feathers;1;1;2;3;1,75
+2100;box;Paneling for a tiny home;2;2;2;4;2,5
+2100;box;a base for a voltaic cell;2;4;3;3;3
+2100;box;if tied on  a tool to keep your feet dry when walking through puddles;2;2;2;3;2,25
+2101;box;Desk;1;1;1;2;1,25
+2101;box;Something to step on for reaching;1;1;1;1;1
+2101;box;Puppet show stage;2;3;2;3;2,5
+2101;box;Costume;1;1;1;2;1,25
+2101;box;Wire organizer;2;2;1;2;1,75
+2101;box;A house for a cat;1;1;1;1;1
+2101;box;Living room coffee table;1;1;1;2;1,25
+2102;box;floatie;3;3;2;3;2,75
+2102;box;hat;1;1;1;1;1
+2102;box;toys;1;1;1;1;1
+2102;box;shoes;1;1;1;1;1
+2102;box;seat;1;1;1;1;1
+2102;box;jewelry;1;1;1;1;1
+2102;box;bed;1;1;1;1;1
+2102;box;House;1;1;1;1;1
+2102;box;car;1;1;1;2;1,25
+2102;box;Wings;2;2;2;2;2
+2102;box;clothes;1;1;1;1;1
+2102;box;sled;1;1;1;1;1
+2102;box;ice skating;1;2;2;3;2
+2102;box;surfboard;2;2;2;3;2,25
+2102;box;step ladder;1;1;1;1;1
+2102;box;prosthetic limb;3;3;3;4;3,25
+2102;box;cast for arm;3;3;3;3;3
+2102;box;punching bag;2;3;2;3;2,5
+2104;box;Desk;1;1;1;2;1,25
+2104;box;Hat;1;1;1;1;1
+2104;box;Shoe;1;1;1;1;1
+2104;box;Boat a bad one;1;1;1;2;1,25
+2104;box;Fort;1;1;1;1;1
+2104;box;Drum;1;2;2;3;2
+2104;box;Coffin;2;2;2;2;2
+2104;box;Decor;1;1;1;1;1
+2104;box;Bookshelf;2;1;1;2;1,5
+2104;box;Kite;3;2;2;3;2,5
+2104;box;Spaceship;1;1;1;2;1,25
+2104;box;Boat;1;1;1;2;1,25
+2104;box;Bathtub;1;1;2;2;1,5
+2104;box;Cubby;1;1;1;2;1,25
+2104;box;Ball pit;2;3;2;3;2,5
+2104;box;Foot stool;1;1;1;1;1
+2104;box;Cat house;1;1;1;1;1
+2104;box;Computer stand;1;1;2;2;1,5
+2104;box;Sign material;1;1;1;2;1,25
+2106;box;Draw/color it to be a spaceship for a child to play in;2;1;1;2;1,5
+2106;box;watch a cat try to fit into a smaller;1;1;2;3;1,75
+2106;box;turn it into a fort;1;1;1;1;1
+2106;box;turn it into a opera house for ants;5;5;3;5;4,5
+2107;box;A home;1;1;1;1;1
+2107;box;You can make an airplane  for a child;1;3;2;2;2
+2107;box;step stool;1;1;1;1;1
+2107;box;Foot rest;1;1;1;1;1
+2107;box;place to hold a bunch of junk;1;1;1;1;1
+2107;box;If you take it apart you can use it as a mat to break dance;1;2;2;3;2
+2107;box;A hiding place when playing hide and go seek;1;1;2;3;1,75
+2107;box;Use it as a table;1;1;1;1;1
+2107;box;Use it as a chair;1;1;1;1;1
+2108;box;table;1;1;1;1;1
+2108;box;seat;1;1;1;1;1
+2108;box;bed;1;1;1;1;1
+2108;box;car;1;1;1;2;1,25
+2108;box;canvas;1;1;1;2;1,25
+2108;box;clothes;1;1;1;1;1
+2108;box;shelter;1;1;1;1;1
+2108;box;puppet showcase;2;3;2;3;2,5
+2108;box;umbrella;1;1;1;2;1,25
+2108;box;raincoat;1;1;2;2;1,5
+2108;box;flotation device;3;2;2;3;2,5
+2108;box;drum set;1;2;2;3;2
+2108;box;book organizer;2;1;1;2;1,5
+2108;box;dog house;1;1;1;1;1
+2111;box;hat;1;1;1;1;1
+2111;box;Shoe;1;1;1;1;1
+2111;box;car if you attach wheels;1;1;1;2;1,25
+2111;box;helmet;1;1;2;2;1,5
+2111;box;pillow;1;1;2;2;1,5
+2111;box;chair;1;1;1;1;1
+2111;box;kite;3;2;2;3;2,5
+2111;box;blanket;1;1;2;2;1,5
+2111;box;Skirt;1;1;2;2;1,5
+2111;box;flower pot;2;2;2;2;2
+2111;box;hiding spot;1;1;2;2;1,5
+2111;box;canvas for drawing;1;1;1;2;1,25
+2111;box;staple holder;1;1;2;2;1,5
+2111;box;surf board;2;2;2;3;2,25
+2111;box;Dog bed;2;1;1;1;1,25
+2111;box;Dog house;1;1;1;1;1
+2112;box;to fill with other    one of which contains a present make sure to put things in other   so they don't know which one has the present in it;1;1;1;2;1,25
+2112;box;Sliding down a rock quarry;3;1;2;3;2,25
+2112;box;Holding for a Halloween costume because you're outside the;3;3;3;4;3,25
+2112;box;Hiding in to scare someone not original  but definitely fun;1;1;2;2;1,5
+2113;box;shoes;1;1;1;1;1
+2113;box;fort;1;1;1;1;1
+2113;box;as a ruler to measure with the sides of the;2;2;2;3;2,25
+2113;box;castle;1;1;1;2;1,25
+2113;box;boat;1;1;1;2;1,25
+2113;box;umbrella;1;1;1;2;1,25
+2113;box;as a shield;1;1;2;2;1,5
+2113;box;planner;1;1;2;2;1,5
+2113;box;draw a map;2;1;2;3;2
+2113;box;drawing board;1;1;1;2;1,25
+2114;box;Make 3D art;1;2;2;2;1,75
+2114;box;Make a mini city with;1;1;2;4;2
+2114;box;Use as a trash can;1;1;1;1;1
+2114;box;Use it to decorate the walls of a child's room;1;1;2;2;1,5
+2114;box;Shred it and use it as compost for a garden;3;4;2;3;3
+2114;box;Build a fort;1;1;1;1;1
+2114;box;Make a costume;1;1;1;2;1,25
+2114;box;Use it as a separator for a garden;3;2;2;3;2,5
+2115;box;Covering it in clay and making a design on it;2;2;2;3;2,25
+2115;box;Filling it with mirrors and shining a light in it;2;3;3;4;3
+2115;box;Putting electrical components in it to hide them the decorating the outside of it;1;1;1;2;1,25
+2115;box;Using it as a way to stop a vehicle from rolling away;2;2;2;2;2
+2116;box;personal movie theater;2;3;3;3;2,75
+2116;box;tower;1;1;2;1;1,25
+2116;box;coffin;2;2;2;2;2
+2116;box;stool;1;1;1;1;1
+2116;box;planter;2;2;2;2;2
+2116;box;mouse trap;2;1;2;3;2
+2116;box;rocket ship;2;1;2;2;1,75
+2116;box;dog house;1;1;1;1;1
+2117;box;use in boxing matches you must from inside your;2;4;3;3;3
+2117;box;use the as stairs like clouds in Mario video games;1;3;3;4;2,75
+2117;box;use   to decorate the walls;1;1;2;1;1,25
+2117;box;collectable items;1;1;1;1;1
+2117;box;wear the   as a costume;1;2;1;2;1,5
+2117;box;make alike a book bag so you will only use book instead of book bags;2;2;3;3;2,5
+2117;box;use   as a sort of sketch pad;1;2;2;2;1,75
+2117;box;use a single as a reminder to always think outside the;2;3;3;3;2,75
+2117;box;design a that will work as a boat;2;2;1;2;1,75
+2120;box;sheet;1;2;2;2;1,75
+2120;box;Put old food in;1;1;1;1;1
+2120;box;Food;1;1;2;1;1,25
+2120;box;mattress;1;1;1;2;1,25
+2120;box;a dress;1;1;2;1;1,25
+2120;box;shirt;1;1;2;1;1,25
+2120;box;Shelter;1;1;1;1;1
+2120;box;Cover a sunroof;2;3;2;1;2
+2120;box;Workout equipment;2;1;1;2;1,5
+2121;box;cinema;2;2;2;3;2,25
+2121;box;storage;1;1;1;1;1
+2121;box;kitchen;1;1;1;2;1,25
+2121;box;fort;1;1;1;1;1
+2121;box;bed;1;1;1;1;1
+2121;box;car;1;1;1;2;1,25
+2121;box;coffin;2;2;2;2;2
+2121;box;oven;1;1;2;3;1,75
+2121;box;camcorder;2;1;2;2;1,75
+2121;box;freezer;1;1;2;2;1,5
+2121;box;costume;1;1;1;2;1,25
+2121;box;mountain;1;1;3;2;1,75
+2121;box;register;1;1;2;1;1,25
+2121;box;helmet;1;1;2;2;1,5
+2121;box;be a robot;2;1;2;2;1,75
+2121;box;bookshelf;2;1;1;2;1,5
+2121;box;ship;2;1;1;2;1,5
+2121;box;playhouse;1;1;1;1;1
+2121;box;saloon;1;2;3;3;2,25
+2121;box;transformer;1;3;2;2;2
+2121;box;boat;1;1;1;2;1,25
+2121;box;rocket;2;1;2;2;1,75
+2121;box;submarine;2;3;2;3;2,5
+2121;box;jail;2;1;2;3;2
+2121;box;magic prop;1;1;1;2;1,25
+2121;box;boombox;3;2;2;2;2,25
+2121;box;sleigh;2;1;1;2;1,5
+2121;box;igloo;3;1;2;3;2,25
+2121;box;poker table;2;2;2;3;2,25
+2121;box;fire truck;1;1;2;3;1,75
+2121;box;space ship;1;1;1;2;1,25
+2121;box;race car;1;2;1;2;1,5
+2121;box;secret lab;2;3;3;3;2,75
+2122;box;storage;1;1;1;1;1
+2122;box;fort;1;1;1;1;1
+2122;box;chair;1;1;1;1;1
+2122;box;door stopper;1;1;2;1;1,25
+2122;box;shield;1;1;2;2;1,5
+2122;box;dollhouse;2;1;2;2;1,75
+2122;box;rain hat;1;1;2;2;1,5
+2122;box;hide out location;1;1;2;2;1,5
+2123;box;home;1;1;1;1;1
+2123;box;toy;1;1;1;1;1
+2123;box;packages;1;1;1;1;1
+2123;box;hat;1;1;1;1;1
+2123;box;table;1;1;1;1;1
+2123;box;storage;1;1;1;1;1
+2123;box;fort;1;1;1;1;1
+2123;box;costume;1;1;1;2;1,25
+2123;box;chair;1;1;1;1;1
+2123;box;holder;1;1;1;1;1
+2123;box;weapon;1;1;1;1;1
+2123;box;sled;1;1;1;1;1
+2123;box;barrier;1;1;1;2;1,25
+2123;box;flooring;1;1;2;2;1,5
+2123;box;cake holder;1;1;2;1;1,25
+2123;box;sun shade;2;1;2;2;1,75
+2123;box;art board;1;1;2;2;1,5
+2124;box;a home or place to sleep;1;1;1;1;1
+2124;box;cooler;2;2;2;2;2
+2124;box;recycling bin;1;1;1;1;1
+2124;box;book shelve;2;1;1;2;1,5
+2125;box;TOILET;2;1;1;1;1,25
+2125;box;ROBOT TORSO;2;1;2;2;1,75
+2125;box;PUPPET STAGE;2;3;2;3;2,5
+2125;box;SHIPPING CRATE FOR A LIZARD;2;1;1;3;1,75
+2125;box;PIGGY BANK;1;2;2;3;2
+2125;box;MEDAL FOR LAST PLACE;3;4;4;4;3,75
+2125;box;FURNITURE IN RECENTLY MOVED INTO HOUSE;1;1;2;2;1,5
+2125;box;PANTS FOR HOBO;1;2;3;3;2,25
+2126;box;Toy;1;1;1;1;1
+2126;box;hat;1;1;1;1;1
+2126;box;seat;1;1;1;1;1
+2126;box;seat;1;1;1;1;1
+2126;box;Restaurant;2;1;2;1;1,5
+2126;box;purse;1;1;2;1;1,25
+2126;box;dress;1;1;2;2;1,5
+2126;box;belt;2;2;2;2;2
+2126;box;pillow;1;1;2;2;1,5
+2126;box;prop;1;2;2;3;2
+2126;box;sunroof;1;3;2;3;2,25
+2126;box;cushion;2;1;2;2;1,75
+2126;box;bracelet;1;1;2;1;1,25
+2126;box;footwear;1;1;2;1;1,25
+2126;box;stress reliever;2;2;1;3;2
+2126;box;arm rest;2;1;2;3;2
+2126;box;sun blocker;2;1;2;2;1,75
+2126;box;Stepping stool;1;1;1;1;1
+2126;box;foot support;1;1;1;1;1
+2126;box;exercise equipment;2;2;1;1;1,5
+2126;box;back support;2;2;2;3;2,25
+2126;box;Vacation home;1;1;3;3;2
+2128;box;a place to put stuff on;1;1;1;1;1
+2128;box;broken down can be used to break dance;1;2;2;3;2
+2128;box;a castle;1;1;2;2;1,5
+2128;box;a big metal  can trap a large dinosaur;3;3;3;3;3
+2128;box;a drawing board;1;1;2;2;1,5
+2130;box;ball;1;1;2;1;1,25
+2130;box;hat;1;1;1;1;1
+2130;box;house;1;1;1;1;1
+2130;box;coffin;2;2;2;2;2
+2130;box;bowl;1;1;1;2;1,25
+2130;box;pillow;1;1;2;2;1,5
+2130;box;step;1;1;1;1;1
+2130;box;umbrella;1;1;1;2;1,25
+2131;box;to build a mini city;2;3;3;3;2,75
+2131;box;costume;1;1;1;2;1,25
+2131;box;step stool;1;1;1;1;1
+2131;box;Hiding place;1;1;2;2;1,5
+2131;box;watch movies in complete darkness;3;2;3;4;3
+2131;box;drawing board;1;1;1;2;1,25
+2133;box;unfold to cover a window to block out the sun;2;1;2;1;1,5
+2133;box;stack to make a play castle and/or thrown;1;2;2;3;2
+2133;box;make a pretend car for a child;1;1;1;2;1,25
+2133;box;To make a play house;2;1;1;2;1,5
+2133;box;use as a goal for a ball game;3;1;2;2;2
+2134;box;MAKE A SMALL ROOM FOR BABY TO PLAY;2;1;1;3;1,75
+2134;box;MAKE THE TO KEEP CHICK;2;1;3;2;2
+2135;box;COFEE TABLE;1;1;2;2;1,5
+2136;box;HIDING SPOT;1;1;2;2;1,5
+2136;box;CAT BED;1;1;1;1;1
+2136;box;DOG BED;2;1;1;1;1,25
+2136;box;HELMENT  HAT  INSTRUMENT;1;1;2;2;1,5
+2137;box;private secret keeper;1;2;2;3;2
+2137;box;breath retainer;2;3;3;4;3
+2137;box;stepper;1;1;1;1;1
+2137;box;wrist prop for nail shops;3;3;3;3;3
+2137;box;eye rest;1;1;2;2;1,5
+2139;box;Hat;1;1;1;1;1
+2139;box;Storage;1;1;1;1;1
+2139;box;Container;1;1;1;1;1
+2139;box;Drum;1;2;2;3;2
+2139;box;Seat;1;1;1;1;1
+2139;box;Canvas;1;1;1;2;1,25
+2139;box;Weight;2;1;2;1;1,5
+2139;box;Speaker;2;1;2;2;1,75
+2139;box;Holder;1;1;1;1;1
+2139;box;Picture frame;2;2;2;3;2,25
+2139;box;Exercise equipment;2;2;1;1;1,5
+2141;box;A fort;1;1;1;1;1
+2141;box;A seat;1;1;1;1;1
+2141;box;A house;1;1;1;1;1
+2141;box;A costume;1;1;1;2;1,25
+2141;box;A train;1;1;2;3;1,75
+2141;box;A rocket ship;1;1;2;2;1,5
+2142;box;Use as food trays;2;1;2;3;2
+2142;box;baby chicken incubator;1;4;3;3;2,75
+2142;box;sculptures;1;1;2;2;1,5
+2142;box;Make a skyscraper;1;1;2;3;1,75
+2142;box;Butterfly catcher;3;3;3;4;3,25
+2142;box;Foot rest;1;1;1;1;1
+2143;box;break it down and break dance on it;1;2;2;3;2
+2143;box;table;1;1;1;1;1
+2143;box;house for someone/something;1;1;1;1;1
+2143;box;break up and use as plates;2;1;2;2;1,75
+2143;box;fort/ playhouse;1;1;1;1;1
+2143;box;hide a body in it;1;1;2;2;1,5
+2143;box;to give birth in;2;3;3;3;2,75
+2144;box;Hat;1;1;1;1;1
+2144;box;Shoes;1;1;1;1;1
+2144;box;House;1;1;1;1;1
+2144;box;Car;1;1;1;2;1,25
+2144;box;To plant fruits and veggies;2;3;1;2;2
+2144;box;Pants;1;1;2;1;1,25
+2144;box;To sit in for hang gliding;3;3;3;4;3,25
+2144;box;Chair;1;1;1;1;1
+2144;box;Water raft;2;3;2;3;2,5
+2144;box;book bag;2;1;2;2;1,75
+2146;box;glove;1;1;2;3;1,75
+2146;box;hat;1;1;1;1;1
+2146;box;shoes;1;1;1;1;1
+2146;box;seat;1;1;1;1;1
+2146;box;vehicle;2;1;1;2;1,5
+2146;box;instrument;1;1;2;2;1,5
+2146;box;clothes;1;1;1;1;1
+2146;box;weapon;1;1;1;1;1
+2146;box;armor;1;1;2;2;1,5
+2146;box;ear cuffs;2;1;3;2;2
+2146;box;shield;1;1;2;2;1,5
+2146;box;art making tool aka brush  pen etc.;1;1;2;2;1,5
+2148;box;hat;1;1;1;1;1
+2148;box;table;1;1;1;1;1
+2148;box;house;1;1;1;1;1
+2148;box;car;1;1;1;2;1,25
+2148;box;purse;1;1;2;1;1,25
+2148;box;backpack;2;1;2;2;1,75
+2148;box;chair;1;1;1;1;1
+2149;box;storage;1;1;1;1;1
+2149;box;cage;1;1;1;1;1
+2149;box;shoes;1;1;1;1;1
+2149;box;house;1;1;1;1;1
+2149;box;costume;1;1;1;2;1,25
+2149;box;helmet;1;1;2;2;1,5
+2149;box;chair;1;1;1;1;1
+2149;box;protection;2;1;2;2;1,75
+2149;box;shield;1;1;2;2;1,5
+2149;box;punching bag;2;3;2;3;2,5
+2149;box;TV stand;2;1;1;2;1,5
+2149;box;garbage can;1;1;1;1;1
+2151;box;storage;1;1;1;1;1
+2151;box;stool;1;1;1;1;1
+2151;box;speaker;2;1;2;2;1,75
+2151;box;chair;1;1;1;1;1
+2151;box;dome;2;1;2;3;2
+2151;box;blanket;1;1;2;2;1,5
+2151;box;footrest;1;1;1;1;1
+2151;box;laundry basket;1;1;1;3;1,5
+2151;box;swimming pool;1;2;2;3;2
+2151;box;cat bed;1;1;1;1;1
+2151;box;dog bed;2;1;1;1;1,25
+2151;box;place for leaves;1;1;1;2;1,25
+2151;box;food storage;1;1;1;1;1
+2151;box;bird house;3;1;2;3;2,25
+2151;box;dog house;1;1;1;1;1
+2152;box;desk;1;1;1;2;1,25
+2152;box;table;1;1;1;1;1
+2152;box;chair;1;1;1;1;1
+2152;box;bookshelf;2;1;1;2;1,5
+2152;box;dice;3;3;3;3;3
+2152;box;cabinet;1;1;1;2;1,25
+2152;box;ottoman;2;1;1;2;1,5
+2152;box;dollhouse;2;1;2;2;1,75
+2152;box;sound amp;3;3;2;3;2,75
+2152;box;dog cage;1;1;1;1;1
+2152;box;camera obscura day;3;4;3;3;3,25
+2153;box;bucket;1;1;1;2;1,25
+2153;box;house;1;1;1;1;1
+2153;box;crib;2;1;1;3;1,75
+2153;box;ship/boat;2;1;1;2;1,5
+2153;box;undo the to use the paper as a mat;1;1;2;3;1,75
+2153;box;hideaway like a treehouse but on the ground;1;1;2;2;1,5
+2153;box;repurpose the to make posters;2;2;1;3;2
+2154;box;to make a bird house;3;1;2;3;2,25
+2154;box;to live in;1;1;1;1;1
+2154;box;to live in;1;1;1;1;1
+2154;box;to live in;1;1;1;1;1
+2154;box;to live in;1;1;1;1;1
+2154;box;to live in;1;1;1;1;1
+2154;box;to live in;1;1;1;1;1
+2154;box;to live in;1;1;1;1;1
+2154;box;to live in;1;1;1;1;1
+2154;box;to live in;1;1;1;1;1
+2154;box;To live in;1;1;1;1;1
+2154;box;TO live in;1;1;1;1;1
+2154;box;To live in;1;1;1;1;1
+2154;box;to use as a shelter;1;1;1;1;1
+2154;box;to use as a shelter;1;1;1;1;1
+2154;box;to use as a shelter;1;1;1;1;1
+2154;box;to use as a shelter;1;1;1;1;1
+2154;box;to use as a shelter;1;1;1;1;1
+2154;box;to make a shelter;1;1;1;1;1
+2154;box;to make a shelter;1;1;1;1;1
+2155;box;a place to tell your secrets;1;3;1;3;2
+2155;box;make a military compound;2;2;2;3;2,25
+2155;box;you can make a fort;1;2;1;1;1,25
+2155;box;use it as a foot rest;1;1;1;2;1,25
+2155;box;pretend the is a pet;1;2;2;2;1,75
+2155;box;pretend the is a alien like et;1;2;2;4;2,25
+2155;box;or make it into desk;1;1;1;1;1
+2155;box;house for animals;1;1;1;1;1
+2155;box;cut up the to build something else out of it like a car;1;1;1;2;1,25
+2155;box;you can make it in to a rocket ship;2;3;1;2;2
+2155;box;cut up the to make more;2;1;2;2;1,75
+2156;box;storage;1;1;1;1;1
+2156;box;cage;1;1;1;1;1
+2156;box;shelves;2;1;1;2;1,5
+2156;box;car;1;1;1;2;1,25
+2156;box;blocks;1;1;2;2;1,5
+2156;box;toy house;1;1;1;1;1
+2157;box;door;1;1;2;1;1,25
+2157;box;hat;1;1;1;1;1
+2157;box;table;1;1;1;1;1
+2157;box;closet;1;1;1;2;1,25
+2157;box;toilet;2;1;1;1;1,25
+2157;box;bed;1;1;1;1;1
+2157;box;house;1;1;1;1;1
+2157;box;car;1;1;1;2;1,25
+2157;box;bowl;1;1;1;2;1,25
+2157;box;pillow;1;1;2;2;1,5
+2157;box;chair;1;1;1;1;1
+2157;box;step;1;1;1;1;1
+2157;box;sled;1;1;1;1;1
+2157;box;cutting broad;2;1;2;3;2
+2157;box;plate toilet step house;2;1;2;NA;1,25
+2158;box;hat;1;1;1;1;1
+2158;box;dining room table;1;1;1;2;1,25
+2158;box;plate;2;1;2;1;1,5
+2158;box;bed;1;1;1;1;1
+2158;box;prep table for cooking;1;1;2;3;1,75
+2158;box;a stool;1;1;1;1;1
+2158;box;pillow;1;1;2;2;1,5
+2158;box;chair;1;1;1;1;1
+2158;box;a weapon;1;1;1;1;1
+2158;box;armor;1;1;2;2;1,5
+2158;box;umbrella;1;1;1;2;1,25
+2158;box;cereal bowl;2;1;2;2;1,75
+2158;box;replica of a tv;1;1;1;3;1,5
+2158;box;flower pot;2;2;2;2;2
+2159;box;hat;1;1;1;1;1
+2159;box;place to go to the bathroom in;1;1;2;2;1,5
+2159;box;sled;1;1;1;1;1
+2159;box;hammock;3;3;2;3;2,75
+2159;box;flower pot;2;2;2;2;2
+2160;box;I could make a doll house out of the;1;1;1;2;1,25
+2160;box;I can make a spaceship or I can go sledding with the I can make room decorations or I can sleep in the if I want;2;1;1;1;1,25
+2160;box;can make flip flops out the;1;3;3;3;2,5
+2160;box;I can make a toy car;1;1;1;2;1,25
+2161;box;deconstructed and layered on top of one another to create a tall sculptural form;1;2;3;3;2,25
+2161;box;Frame for art;2;1;2;3;2
+2162;box;hat;1;1;1;1;1
+2162;box;table;1;1;1;1;1
+2162;box;container;1;1;1;1;1
+2162;box;drum;1;2;2;3;2
+2162;box;form of money/ trade;2;2;3;3;2,5
+2162;box;house;1;1;1;1;1
+2162;box;stamp;1;1;2;1;1,25
+2162;box;bowl;1;1;1;2;1,25
+2162;box;weight;2;1;2;1;1,5
+2162;box;chair;1;1;1;1;1
+2162;box;boat;1;1;1;2;1,25
+2162;box;shield;1;1;2;2;1,5
+2162;box;hiding space;1;1;2;2;1,5
+2162;box;paint brush/ painting tool;3;1;2;2;2
+2163;box;container;1;1;1;1;1
+2163;box;Fort;1;1;1;1;1
+2163;box;Enclosure;1;1;1;1;1
+2163;box;Insulation;3;1;2;2;2
+2163;box;mat;1;1;1;2;1,25
+2163;box;Divider;1;1;2;2;1,5
+2164;box;Hide a camera inside;1;1;2;2;1,5
+2164;box;Trap;2;1;2;2;1,75
+2164;box;Rug;2;1;2;2;1,75
+2164;box;Night Stand;1;1;1;2;1,25
+2165;box;storage;1;1;1;1;1
+2165;box;fort;1;1;1;1;1
+2165;box;bucket;1;1;1;2;1,25
+2165;box;seat;1;1;1;1;1
+2165;box;seat;1;1;1;1;1
+2165;box;jewelry;1;1;1;1;1
+2165;box;crib;2;1;1;3;1,75
+2165;box;shoebox;1;1;1;1;1
+2165;box;door stopper;1;1;2;1;1,25
+2165;box;weapon;1;1;1;1;1
+2165;box;ash tray;1;1;2;2;1,5
+2165;box;dog house;1;1;1;1;1
+2165;box;trash can;1;1;1;1;1
+2165;box;build things;1;1;1;1;1
+2166;box;Ball;1;1;2;1;1,25
+2166;box;Bed;1;1;1;1;1
+2166;box;Shelf;2;1;1;2;1,5
+2166;box;Pillow;1;1;2;2;1,5
+2166;box;Clothing;1;1;1;1;1
+2166;box;Ladder;1;1;2;2;1,5
+2166;box;umbrella;1;1;1;2;1,25
+2168;box;as a hat;1;1;1;1;1
+2168;box;cooking utensil;1;1;2;2;1,5
+2168;box;coin collector;1;1;2;2;1,5
+2168;box;flower pot;2;2;2;2;2
+2168;box;as a sporting game;2;1;2;2;1,75
+2169;box;used for jumps;2;1;1;1;1,25
+2169;box;building a fort;1;1;1;1;1
+2169;box;storing away old memories;1;1;1;3;1,5
+2170;box;home;1;1;1;1;1
+2170;box;gift;1;1;1;1;1
+2170;box;gift;1;1;1;1;1
+2170;box;storage;1;1;1;1;1
+2170;box;fort;1;1;1;1;1
+2170;box;packaging;1;1;1;1;1
+2170;box;casket;2;2;2;2;2
+2170;box;present;1;1;1;1;1
+2170;box;meditation;2;2;2;3;2,25
+2170;box;deceased body;1;1;3;1;1,5
+2170;box;quiet time;1;1;2;2;1,5
+2171;box;stand;1;1;1;1;1
+2171;box;chair;1;1;1;1;1
+2171;box;door stopper;1;1;2;1;1,25
+2171;box;piggy;1;1;2;2;1,5
+2171;box;place holder;1;1;1;2;1,25
+2171;box;exercise object;2;2;1;1;1,5
+2174;box;A cardboard home for my dolls;1;1;2;2;1,5
+2174;box;A temporary home to hide a dead animal;2;1;2;3;2
+2174;box;A sled;1;1;2;1;1,25
+2174;box;A dungeon for my puppy;2;2;2;3;2,25
+2174;box;A skirt;1;1;2;1;1,25
+2174;box;A trap for an elf;2;3;3;4;3
+2174;box;Stash all of my candy;1;1;2;2;1,5
+2174;box;A lampshade;2;2;2;3;2,25
+2174;box;A home for a bunny;2;1;1;1;1,25
+2174;box;Robot armor;2;1;2;2;1,75
+2174;box;A boat for a cat;3;1;3;4;2,75
+2174;box;Get a bunch of   and created a tower;1;1;2;2;1,5
+2174;box;Safe place;1;1;2;2;1,5
+2175;box;cat;1;1;2;1;1,25
+2175;box;house;1;1;1;1;1
+2175;box;mouse;1;1;2;1;1,25
+2175;box;earphones;2;1;2;2;1,75
+2175;box;face  body;1;1;1;1;1
+2175;box;living space;1;1;1;2;1,25
+2175;box;head  car  dog  wheels;1;1;1;1;1
+2176;box;hat;1;1;1;1;1
+2176;box;tear gas bomb;3;2;2;3;2,5
+2176;box;microphone;2;1;2;3;2
+2176;box;house;1;1;1;1;1
+2176;box;earrings;2;1;2;2;1,75
+2176;box;condom;2;3;3;3;2,75
+2176;box;underwear;2;1;3;2;2
+2176;box;spaceship;1;1;1;2;1,25
+2176;box;horse chair;3;1;3;3;2,5
+2176;box;boxing gloves;2;2;3;2;2,25
+2176;box;shot glasses;2;3;3;2;2,5
+2177;box;casket;2;2;2;2;2
+2177;box;pool;2;1;2;2;1,75
+2177;box;stage;2;2;2;3;2,25
+2177;box;kite;3;2;2;3;2,5
+2177;box;sled;1;1;1;1;1
+2177;box;nightstand;1;1;1;2;1,25
+2177;box;flotation device;3;2;2;3;2,5
+2177;box;turtle shell;3;3;2;3;2,75
+2177;box;soccer ball;1;1;2;2;1,5
+2177;box;cat house;1;1;1;1;1
+2178;box;a hat;1;1;2;1;1,25
+2178;box;a place to keep memories;1;1;1;3;1,5
+2178;box;shoes;1;1;1;1;1
+2178;box;a sled;1;1;2;1;1,25
+2179;box;To contain something;1;1;1;1;1
+2179;box;To use as a fort;1;1;1;1;1
+2179;box;To use the cardboard or materials for another purpose after destroying the;1;1;1;1;1
+2179;box;To use as a stepping stool;1;1;1;1;1
+2179;box;For clothing;1;1;1;1;1
+2180;box;cage;1;1;1;1;1
+2180;box;seat;1;1;1;1;1
+2180;box;costume;1;1;1;2;1,25
+2180;box;helmet;1;1;2;2;1,5
+2180;box;sled;1;1;1;1;1
+2180;box;Space ship;1;1;1;2;1,25
+2181;box;slide;2;1;2;2;1,75
+2181;box;bed;1;1;1;1;1
+2181;box;house;1;1;1;1;1
+2181;box;wagon;2;2;1;3;2
+2181;box;helmet;1;1;2;2;1,5
+2181;box;pillow;1;1;2;2;1,5
+2181;box;clothing;1;1;1;1;1
+2181;box;friend;1;1;2;1;1,25
+2181;box;blanket;1;1;2;2;1,5
+2181;box;projectile;1;1;2;2;1,5
+2181;box;play armor;1;1;2;2;1,5
+2181;box;play fort;1;1;1;1;1
+2181;box;boxing gloves;2;2;3;2;2,25
+2182;box;storage;1;1;1;1;1
+2182;box;foot rest;1;1;1;1;1
+2182;box;place to keep baby animals;1;1;1;1;1
+2182;box;used as protection;1;1;1;1;1
+2182;box;used as a house;1;1;1;1;1
+2183;box;gift;1;1;1;1;1
+2183;box;stool;1;1;1;1;1
+2183;box;sled;1;1;1;1;1
+2183;box;table stand;1;1;1;1;1
+2184;box;Door;1;1;2;1;1,25
+2184;box;cage;1;1;1;1;1
+2184;box;fort;1;1;1;1;1
+2184;box;Trap;2;1;2;2;1,75
+2184;box;A game;1;1;1;1;1
+2184;box;House;1;1;1;1;1
+2184;box;Costume;1;1;1;2;1,25
+2184;box;A boat;2;1;1;3;1,75
+2184;box;Bathtub;1;1;2;2;1,5
+2184;box;A derby car;1;2;2;3;2
+2185;box;hat;1;1;1;1;1
+2185;box;smack someone in the head;1;1;2;1;1,25
+2185;box;ladder climber;1;1;2;2;1,5
+2185;box;trunk opener;2;2;2;2;2
+2185;box;paddle downstream;2;2;2;3;2,25
+2185;box;bar stool;1;1;2;3;1,75
+2185;box;car companion;1;2;2;3;2
+2185;box;waste disposal;1;1;1;2;1,25
+2185;box;package food;1;1;1;1;1
+2186;box;A ball;1;1;2;1;1,25
+2186;box;A seat;1;1;1;1;1
+2186;box;Car;1;1;1;2;1,25
+2186;box;Wings;2;2;2;2;2
+2186;box;A sign;1;1;2;1;1,25
+2186;box;A raft;2;2;2;2;2
+2186;box;Sculpture;1;2;2;1;1,5
+2186;box;Rug;2;1;2;2;1,75
+2186;box;Robot suit;2;1;2;2;1,75
+2186;box;Shade panel;2;2;2;2;2
+2186;box;Space helmet;1;2;2;3;2
+2186;box;A huge die;3;3;4;3;3,25
+2186;box;Painting board;1;1;2;2;1,5
+2187;box;table;1;1;1;1;1
+2187;box;fort;1;1;1;1;1
+2187;box;target;2;1;2;2;1,75
+2187;box;costume;1;1;1;2;1,25
+2187;box;sled;1;1;1;1;1
+2187;box;doll house;2;1;2;2;1,75
+2187;box;pet carrier;1;1;1;1;1
+2188;box;fort;1;1;1;1;1
+2188;box;chair;1;1;1;1;1
+2188;box;shelving;2;1;1;2;1,5
+2188;box;abstract sculpture;1;2;2;1;1,5
+2188;box;doll house;2;1;2;2;1,75
+2188;box;dog house;1;1;1;1;1
+2188;box;play house;1;1;1;1;1
+2189;box;a plate;2;1;2;1;1,5
+2189;box;a wagon;1;3;2;3;2,25
+2189;box;a helmet;1;1;2;2;1,5
+2189;box;a backpack;2;1;2;2;1,75
+2189;box;a posh light fixture;2;3;2;4;2,75
+2189;box;a pinhole camera;2;2;2;4;2,5
+2189;box;a pillow  in dire straits;1;1;3;4;2,25
+2189;box;a bird feeder;3;2;3;3;2,75
+2189;box;a rowboat;2;1;1;3;1,75
+2189;box;a house for rabbits;1;1;1;1;1
+2189;box;draw eyes and a mouth on  your new best friend;2;2;2;2;2
+2189;box;a new mask;1;1;2;3;1,75
+2190;box;hat;1;1;1;1;1
+2190;box;car;1;1;1;2;1,25
+2190;box;bricks;1;1;2;1;1,25
+2190;box;bowl;1;1;1;2;1,25
+2190;box;pants;1;1;2;1;1,25
+2190;box;ramp;2;2;2;3;2,25
+2190;box;boat;1;1;1;2;1,25
+2190;box;umbrella;1;1;1;2;1,25
+2190;box;shield;1;1;2;2;1,5
+2191;box;a house for ants;2;1;1;2;1,5
+2191;box;a stepping stool;1;1;1;1;1
+2191;box;build your own stereo;3;1;2;3;2,25
+2191;box;a pet burial;2;1;2;1;1,5
+2192;box;Car;1;1;1;2;1,25
+2192;box;Makeshift table leg;2;3;1;2;2
+2192;box;Snowman;2;2;2;2;2
+2192;box;3D Sculpture;1;2;2;2;1,75
+2192;box;Window blinds;2;2;2;3;2,25
+2001;rope;bracelet;1;1;1;1;1
+2001;rope;woven dog bed;1;1;2;2;1,5
+2001;rope;keychain;1;1;2;3;1,75
+2001;rope;hanging board to clip papers to;1;1;2;3;1,75
+2001;rope;teambuilding toy for a game;1;2;2;2;1,75
+2001;rope;game of telephone;2;2;2;2;2
+2002;rope;ladder;1;1;1;2;1,25
+2002;rope;pulley;1;1;1;1;1
+2002;rope;leash;1;1;1;1;1
+2002;rope;harness;1;1;1;1;1
+2002;rope;wheel;2;1;3;1;1,75
+2002;rope;shoes;2;1;2;1;1,5
+2002;rope;mat;2;1;2;2;1,75
+2002;rope;necklace;1;1;1;1;1
+2002;rope;weight;2;1;1;1;1,25
+2002;rope;clothing;1;1;1;1;1
+2002;rope;calculator;1;1;3;2;1,75
+2002;rope;bulldozer;3;1;3;2;2,25
+2002;rope;soccer ball;2;1;2;1;1,5
+2002;rope;cheese cutter;3;2;2;3;2,5
+2002;rope;musical instrument;2;2;2;2;2
+2002;rope;capillary tube;3;2;3;3;2,75
+2002;rope;signaling device;2;1;2;2;1,75
+2003;rope;strap down;1;1;1;1;1
+2003;rope;wire;1;1;2;2;1,5
+2003;rope;hose;1;1;2;1;1,25
+2003;rope;jump;1;1;1;1;1
+2003;rope;climb;1;1;1;1;1
+2003;rope;belt;1;1;1;1;1
+2003;rope;fishing;1;2;1;1;1,25
+2003;rope;lasso;1;1;1;1;1
+2003;rope;weapon;1;1;1;1;1
+2003;rope;whip;1;1;1;1;1
+2003;rope;dog leash;1;1;1;1;1
+2003;rope;pet;2;1;2;1;1,5
+2003;rope;tie things;1;1;1;1;1
+2003;rope;helicopter blade;3;4;3;3;3,25
+2004;rope;if you have small    make bracelets out of them;1;1;1;2;1,25
+2004;rope;tie together a bouquet of flowers;2;1;2;2;1,75
+2004;rope;use it as a belt;1;1;1;1;1
+2004;rope;hang lights from the;2;2;2;2;2
+2004;rope;hang several of them and use it as a curtain;2;1;2;3;2
+2005;rope;lasso;1;1;1;1;1
+2005;rope;make a ladder;1;1;1;2;1,25
+2005;rope;play limbo;1;1;1;1;1
+2005;rope;play jump;1;1;1;1;1
+2005;rope;tie things up;1;1;1;1;1
+2005;rope;climbing tool;1;1;1;1;1
+2005;rope;pull things;1;1;1;1;1
+2005;rope;clear oil off top of water;2;4;3;4;3,25
+2006;rope;belt;1;1;1;1;1
+2006;rope;hair;1;1;2;1;1,25
+2006;rope;hammock;2;1;1;2;1,5
+2006;rope;necklace;1;1;1;1;1
+2006;rope;fake snake;1;1;2;1;1,25
+2006;rope;braid instructions unravel and fix;1;1;3;3;2
+2006;rope;wound wrappings;2;1;2;1;1,5
+2006;rope;hair tie;1;1;1;1;1
+2006;rope;animal toy;1;1;2;1;1,25
+2006;rope;frame for pictures;2;2;2;3;2,25
+2006;rope;cord coverings;2;4;2;3;2,75
+2007;rope;tourniquet;3;1;2;2;2
+2007;rope;splint;3;2;2;2;2,25
+2007;rope;perimeter of a table decoration;2;2;2;3;2,25
+2007;rope;used as material in art;1;2;2;2;1,75
+2007;rope;exercise between two people;1;1;1;1;1
+2007;rope;make a bowl;2;1;2;1;1,5
+2007;rope;hair piece;2;1;2;1;1,5
+2007;rope;hang decorations from;1;1;1;1;1
+2007;rope;to make a seat;1;1;1;2;1,25
+2007;rope;animal structures;2;1;2;2;1,75
+2008;rope;belt;1;1;1;1;1
+2008;rope;dog leash;1;1;1;1;1
+2008;rope;play with as a snake;1;1;2;1;1,25
+2010;rope;wire;1;1;2;2;1,5
+2010;rope;ring;1;1;2;1;1,25
+2010;rope;crutches;2;2;2;3;2,25
+2010;rope;cane;3;2;2;3;2,5
+2010;rope;necklace;1;1;1;1;1
+2010;rope;pencil;1;1;2;2;1,5
+2010;rope;bracelet;1;1;1;1;1
+2010;rope;lighter;1;1;2;2;1,5
+2010;rope;toothpick;2;2;3;2;2,25
+2010;rope;hair bow;1;1;1;1;1
+2011;rope;pulley;1;1;1;1;1
+2011;rope;fencing;2;1;1;2;1,5
+2011;rope;necklace;1;1;1;1;1
+2011;rope;whip;1;1;1;1;1
+2011;rope;lobster leash;2;3;4;4;3,25
+2011;rope;string for instrument;2;2;2;3;2,25
+2011;rope;measuring device;2;1;2;2;1,75
+2012;rope;belt;1;1;1;1;1
+2012;rope;hair;1;1;2;1;1,25
+2012;rope;towing;1;1;1;1;1
+2012;rope;wallpaper;1;3;2;2;2
+2012;rope;weapon;1;1;1;1;1
+2012;rope;decoration;1;1;1;1;1
+2012;rope;sling for a cast;2;2;2;2;2
+2012;rope;packaging material;2;1;2;3;2
+2012;rope;tying your shoes;2;1;2;1;1,5
+2012;rope;fix a car;1;1;1;2;1,25
+2012;rope;able to use it to guide yourself back;2;1;2;2;1,75
+2013;rope;as a belt;1;1;1;1;1
+2013;rope;as floss;1;2;3;3;2,25
+2013;rope;as a seatbelt;2;1;2;3;2
+2013;rope;make a hat;1;1;2;1;1,25
+2013;rope;make a shirt;1;1;2;1;1,25
+2013;rope;as a hand warmer;2;2;2;4;2,5
+2014;rope;belt;1;1;1;1;1
+2014;rope;cord/wire insulation;3;4;2;3;3
+2014;rope;giant gift bow;1;1;2;2;1,5
+2014;rope;redneck party streamer;5;3;3;5;4
+2014;rope;holding back a spring loaded slingshot;3;1;2;3;2,25
+2014;rope;fake hair;2;1;2;1;1,5
+2015;rope;hangers;2;1;1;1;1,25
+2015;rope;bracelets;1;1;1;1;1
+2015;rope;confetti;3;3;3;3;3
+2015;rope;divider;2;1;2;2;1,75
+2015;rope;fan;2;3;2;3;2,5
+2015;rope;ruler;2;1;2;2;1,75
+2015;rope;door lock;2;1;2;1;1,5
+2015;rope;shoe holder;2;1;2;2;1,75
+2015;rope;party decorations;2;2;2;2;2
+2016;rope;shoelace;1;1;1;1;1
+2016;rope;tie it to resemble a dog or other animal;1;2;2;3;2
+2017;rope;harness;1;1;1;1;1
+2017;rope;belt;1;1;1;1;1
+2017;rope;bridge;2;1;2;2;1,75
+2017;rope;shoelace;1;1;1;1;1
+2017;rope;swing;1;1;1;1;1
+2017;rope;military   bridge belt;1;2;2;2;1,75
+2017;rope;hair band;1;1;1;1;1
+2017;rope;hair on a doll;2;1;2;2;1,75
+2017;rope;vintage ribbon;2;1;2;2;1,75
+2017;rope;chew toy;1;1;1;1;1
+2017;rope;resistance bands;2;2;2;2;2
+2018;rope;leash;1;1;1;1;1
+2018;rope;handcuffs;1;1;1;1;1
+2018;rope;tourniquet;3;1;2;2;2
+2018;rope;a swing;1;1;2;1;1,25
+2018;rope;headband;1;1;1;2;1,25
+2018;rope;a weapon;1;1;2;1;1,25
+2018;rope;jewelry;1;1;1;1;1
+2018;rope;a hair bow;1;1;2;1;1,25
+2019;rope;fence;2;1;1;2;1,5
+2019;rope;knot;1;1;1;1;1
+2019;rope;necklace;1;1;1;1;1
+2019;rope;bracelet;1;1;1;1;1
+2019;rope;decoration;1;1;1;1;1
+2019;rope;dog leash;1;1;1;1;1
+2019;rope;hair band;1;1;1;1;1
+2019;rope;hair tie;1;1;1;1;1
+2019;rope;clothes line;2;1;2;1;1,5
+2019;rope;can phone;1;2;2;2;1,75
+2020;rope;necklace;1;1;1;1;1
+2020;rope;border around pictures;2;1;3;3;2,25
+2020;rope;twisted up a candle holder;2;1;2;3;2
+2020;rope;dress material;1;1;1;1;1
+2020;rope;use the end as a paintbrush;2;3;2;3;2,5
+2021;rope;handcuffs;1;1;1;1;1
+2021;rope;used to fence in animals;2;1;2;2;1,75
+2021;rope;used as a dog leash or collar;1;1;1;1;1
+2021;rope;walk across a lake or gap;3;2;2;2;2,25
+2022;rope;pull it to pull a lever that hits the power button on a tv;2;2;3;4;2,75
+2022;rope;use it as the string on a hillbilly bass also used a bucket and piece of wood;4;4;3;3;3,5
+2022;rope;you can tie sticks together and make a chair;3;3;3;4;3,25
+2023;rope;ladder;1;1;1;2;1,25
+2023;rope;bag;1;1;2;1;1,25
+2023;rope;roof;3;1;2;3;2,25
+2023;rope;swing;1;1;1;1;1
+2023;rope;necklace;1;1;1;1;1
+2023;rope;clothing;1;1;1;1;1
+2023;rope;umbrella;3;1;2;2;2
+2024;rope;tail;2;1;2;1;1,5
+2024;rope;belt;1;1;1;1;1
+2024;rope;weapon;1;1;1;1;1
+2024;rope;toy;1;1;1;1;1
+2024;rope;streamer;2;2;2;3;2,25
+2024;rope;snake puppet;1;1;2;2;1,5
+2024;rope;musical instrument;2;2;2;2;2
+2024;rope;safety line;1;1;1;2;1,25
+2025;rope;noose;1;1;1;1;1
+2025;rope;jump;1;1;1;1;1
+2025;rope;belt;1;1;1;1;1
+2025;rope;hammock;2;1;1;2;1,5
+2025;rope;swing;1;1;1;1;1
+2025;rope;lasso;1;1;1;1;1
+2025;rope;headband;1;1;1;2;1,25
+2025;rope;jewelry;1;1;1;1;1
+2025;rope;three legged race;1;1;1;2;1,25
+2025;rope;dog leash;1;1;1;1;1
+2025;rope;tug of war;1;1;1;1;1
+2025;rope;hanging plants;1;1;2;1;1,25
+2026;rope;to swing from;2;1;1;1;1,25
+2026;rope;to tie someone to a bed;1;1;2;1;1,25
+2026;rope;to use as a hair tie;1;1;2;2;1,5
+2026;rope;to use to make into a bow;1;1;2;1;1,25
+2026;rope;to use as a trip wire;2;1;1;1;1,25
+2026;rope;to use to block off a room;2;1;2;2;1,75
+2026;rope;to tie to a tree;1;1;1;1;1
+2026;rope;to play jump   with;1;1;1;1;1
+2026;rope;to use for pranks;1;1;2;2;1,5
+2026;rope;to use as a path so you don't get lost;2;1;2;3;2
+2026;rope;to wrap a present with it;2;1;2;2;1,75
+2027;rope;can be used as weapon when force is applied;1;1;1;1;1
+2027;rope;can be used as a climbing tool example when climbing tree;1;1;1;1;1
+2027;rope;can be used to start a fire when pulled back and forth with speed;2;2;2;3;2,25
+2027;rope;can be used to tie someone up;1;1;1;1;1
+2028;rope;ladder;1;1;1;2;1,25
+2028;rope;leash;1;1;1;1;1
+2028;rope;jump;1;1;1;1;1
+2028;rope;bridge;2;1;2;2;1,75
+2028;rope;swing;1;1;1;1;1
+2028;rope;wig;2;1;2;2;1,75
+2028;rope;handle;1;1;1;2;1,25
+2028;rope;tent support system;2;2;2;2;2
+2028;rope;fake snake;1;1;2;1;1,25
+2028;rope;fire starter;1;2;2;2;1,75
+2029;rope;leash;1;1;1;1;1
+2029;rope;noose;1;1;1;1;1
+2029;rope;belt;1;1;1;1;1
+2029;rope;girdle;2;3;2;1;2
+2029;rope;lasso;1;1;1;1;1
+2029;rope;jewelry;1;1;1;1;1
+2029;rope;circulation cutter offer;2;1;3;4;2,5
+2029;rope;mediocre whip;1;1;2;1;1,25
+2029;rope;doll hair;2;1;2;2;1,75
+2029;rope;best friend;3;2;2;2;2,25
+2029;rope;toe organizer;2;2;3;3;2,5
+2029;rope;hair tie;1;1;1;1;1
+2029;rope;floss for a giant;3;2;3;3;2,75
+2030;rope;leash;1;1;1;1;1
+2030;rope;jump;1;1;1;1;1
+2030;rope;belt;1;1;1;1;1
+2030;rope;necklace;1;1;1;1;1
+2030;rope;bracelet;1;1;1;1;1
+2030;rope;headband;1;1;1;2;1,25
+2030;rope;vines from trees;2;2;2;2;2
+2030;rope;tie it and pull things around with;1;1;1;1;1
+2030;rope;land marker tying to a tree;2;1;2;2;1,75
+2031;rope;wrapping an object in it to prevent growth  such as plants;3;3;3;1;2,5
+2031;rope;transporting food to a house;1;2;1;3;1,75
+2031;rope;cutting into small pieces and using as a trail to find one ways back;1;1;2;3;1,75
+2031;rope;carving object in it to create pictures;3;3;2;1;2,25
+2031;rope;building an house;2;1;2;1;1,5
+2031;rope;holding object way in the air;1;1;2;2;1,5
+2031;rope;building an other object purely out of   such as a car  plane  tree;2;1;2;1;1,5
+2032;rope;ladder;1;1;1;2;1,25
+2032;rope;thread;1;1;1;1;1
+2032;rope;cord;1;2;1;1;1,25
+2032;rope;leash;1;1;1;1;1
+2032;rope;tightrope;1;1;1;1;1
+2032;rope;line;1;1;2;1;1,25
+2032;rope;decoration;1;1;1;1;1
+2032;rope;vase;2;2;2;2;2
+2032;rope;weed eater;4;3;2;3;3
+2032;rope;cup;1;1;2;1;1,25
+2032;rope;fan blade;3;3;2;3;2,75
+2033;rope;unstring the   for a wig;2;1;2;2;1,75
+2033;rope;use it to hold up your pants;1;1;1;1;1
+2033;rope;use it to dance with like the gymnasts do at the Olympics;3;2;2;3;2,5
+2033;rope;seduce a snake;2;4;3;3;3
+2033;rope;coil it up and use it to lure a cat;1;3;2;3;2,25
+2033;rope;put one end and water and water a plant via capillary action;3;4;4;4;3,75
+2034;rope;climbing;1;1;1;1;1
+2034;rope;leash;1;1;1;1;1
+2034;rope;jump;1;1;1;1;1
+2034;rope;belt;1;1;1;1;1
+2034;rope;swing;1;1;1;1;1
+2034;rope;net;1;1;1;1;1
+2034;rope;clothes line;2;1;2;1;1,5
+2034;rope;water skiing;1;2;2;2;1,75
+2035;rope;climb;1;1;1;1;1
+2035;rope;tie down;1;1;1;1;1
+2035;rope;hold doors shut;2;1;2;2;1,75
+2035;rope;wick;1;1;2;1;1,25
+2035;rope;hair in wig;2;1;2;1;1,5
+2035;rope;mark off areas;2;1;2;2;1,75
+2035;rope;outline projects;1;1;2;3;1,75
+2036;rope;clothing;1;1;1;1;1
+2036;rope;furniture;2;1;2;1;1,5
+2036;rope;tree cutter;3;2;3;3;2,75
+2036;rope;pot for plant;2;2;3;2;2,25
+2036;rope;currency;2;1;3;2;2
+2036;rope;hair extensions;2;1;2;2;1,75
+2037;rope;a belt;1;1;1;1;1
+2037;rope;cat toy;1;1;1;1;1
+2037;rope;hair tie;1;1;1;1;1
+2037;rope;decorations  similar to Christmas lights;1;1;2;1;1,25
+2039;rope;padding;2;1;2;2;1,75
+2039;rope;insulation;2;2;3;3;2,5
+2039;rope;ballast;3;1;3;2;2,25
+2039;rope;roofing;3;1;2;3;2,25
+2039;rope;cat toy;1;1;1;1;1
+2039;rope;fabric material;1;1;2;2;1,5
+2039;rope;door stop;1;1;2;1;1,25
+2039;rope;knife handle;2;3;2;3;2,5
+2040;rope;belt;1;1;1;1;1
+2040;rope;necklace;1;1;1;1;1
+2040;rope;wig;2;1;2;2;1,75
+2040;rope;net;1;1;1;1;1
+2040;rope;picture frame;2;2;2;3;2,25
+2041;rope;take it apart so the fibers are all in a big bunch and leave it somewhere for a coworker to have to clean up;1;3;3;3;2,5
+2041;rope;roll it up so that it's flat and only the sides are touching like a big circle and use as a canvas for a painting or something;3;2;3;3;2,75
+2042;rope;dip the tip in kerosene and light it for use as a light source;2;1;3;3;2,25
+2042;rope;tie a knot in one end and use it as a weapon;1;1;2;1;1,25
+2042;rope;tie it around your waist and use it as a belt;1;1;1;1;1
+2042;rope;unravel it and use the strands to make a wig;2;1;2;2;1,75
+2042;rope;make it into a lasso and use it to catch criminals like in the old west;1;1;2;2;1,5
+2042;rope;use it as a jump;1;1;1;1;1
+2043;rope;shoelaces;1;1;1;1;1
+2043;rope;tail;2;1;2;1;1,5
+2043;rope;for fishing;2;2;2;2;2
+2043;rope;to burn like a candle;1;1;2;1;1,25
+2043;rope;hammock lots of;2;1;1;2;1,5
+2043;rope;to climb down from a window;1;1;1;1;1
+2043;rope;trail for avoiding getting lost;2;1;2;3;2
+2044;rope;dress;1;1;1;1;1
+2044;rope;weapon;1;1;1;1;1
+2044;rope;instrument;2;2;2;2;2
+2044;rope;sculpture;1;2;2;1;1,5
+2044;rope;giant  3d hair piece;2;1;2;2;1,75
+2044;rope;make a   bridge to connect all continents;2;3;3;4;3
+2045;rope;swing;1;1;1;1;1
+2045;rope;horse;1;1;2;1;1,25
+2045;rope;horse lead;1;1;1;1;1
+2045;rope;vase decoration;2;2;2;3;2,25
+2045;rope;woven coffee table top;2;1;2;3;2
+2045;rope;aisle runner edge weight;2;2;3;3;2,5
+2045;rope;workout tool;1;1;2;2;1,5
+2045;rope;craft material;1;2;2;1;1,5
+2045;rope;cat toy;1;1;1;1;1
+2045;rope;fishing line;2;2;1;1;1,5
+2046;rope;use it to represent cords of muscle in a sculpture;4;4;3;5;4
+2046;rope;attach it to a helicopter to whack birds;3;3;4;4;3,5
+2046;rope;make a massive candle with it as the wick;1;1;2;2;1,5
+2046;rope;hang upside down from it and pretend you're a bat;3;3;3;4;3,25
+2046;rope;thread it into oversized shoes as if it were a shoelace;1;1;2;2;1,5
+2046;rope;use it instead of tinsel on your Christmas tree;2;2;4;3;2,75
+2047;rope;ladder;1;1;1;2;1,25
+2047;rope;snake;1;1;2;1;1,25
+2047;rope;swing;1;1;1;1;1
+2047;rope;anchor;2;1;2;1;1,5
+2047;rope;lasso;1;1;1;1;1
+2047;rope;spinner;2;2;2;2;2
+2047;rope;long distance phone;2;2;3;3;2,5
+2047;rope;wick;1;1;2;1;1,25
+2047;rope;bad parachute;3;2;4;3;3
+2047;rope;tractor pull;1;1;1;2;1,25
+2047;rope;airplane tether;3;2;2;2;2,25
+2047;rope;DNA strand;3;4;3;3;3,25
+2048;rope;as a belt;1;1;1;1;1
+2048;rope;for a game;1;1;1;2;1,25
+2048;rope;woven to make a fish net;1;1;2;2;1,5
+2048;rope;to demonstrate tension vs compression;1;1;3;3;2
+2048;rope;shaped into letters to make a sign;2;2;2;3;2,25
+2048;rope;as a unit of measure;2;1;1;2;1,5
+2049;rope;handcuffs;1;1;1;1;1
+2049;rope;belt;1;1;1;1;1
+2049;rope;hat;1;1;2;1;1,25
+2049;rope;to mark a path;2;1;2;3;2
+2049;rope;safety harness;1;1;1;2;1,25
+2050;rope;pulley;1;1;1;1;1
+2050;rope;leash;1;1;1;1;1
+2050;rope;whip;1;1;1;1;1
+2050;rope;restraint;1;1;1;1;1
+2050;rope;high wire act;2;1;2;3;2
+2050;rope;coiled turban;1;2;3;3;2,25
+2050;rope;fake snake;1;1;2;1;1,25
+2050;rope;imaginary noodles;1;2;2;2;1,75
+2050;rope;Rapunzel braid;2;3;3;3;2,75
+2050;rope;fake worms;1;1;2;2;1,5
+2050;rope;weaving material;1;1;2;1;1,25
+2050;rope;imaginary wires;1;3;2;2;2
+2051;rope;ladder;1;1;1;2;1,25
+2051;rope;swing;1;1;1;1;1
+2051;rope;weapon;1;1;1;1;1
+2051;rope;dog toy;1;1;1;1;1
+2051;rope;toy for a kid;1;1;1;1;1
+2051;rope;car decoration;1;1;1;2;1,25
+2052;rope;belt;1;1;1;1;1
+2052;rope;swing;1;1;1;1;1
+2052;rope;tie your bumper to your car;1;1;1;2;1,25
+2052;rope;as a border on a poster;2;1;2;3;2
+2052;rope;cut something;1;2;2;1;1,5
+2053;rope;pulley;1;1;1;1;1
+2053;rope;stairs;3;1;2;1;1,75
+2053;rope;belt;1;1;1;1;1
+2053;rope;mat;2;1;2;2;1,75
+2053;rope;clothing;1;1;1;1;1
+2053;rope;door;1;1;2;1;1,25
+2053;rope;weapon;1;1;1;1;1
+2053;rope;vehicle;1;1;2;1;1,25
+2053;rope;seating;1;1;2;2;1,5
+2053;rope;liner;1;1;2;2;1,5
+2053;rope;laptop;1;2;1;1;1,25
+2053;rope;shoe laces;1;1;1;1;1
+2053;rope;mi;1;1;3;1;1,5
+2053;rope;ear muffs;2;2;3;3;2,5
+2053;rope;monitor;1;1;2;2;1,5
+2053;rope;kick stand;1;2;3;3;2,25
+2053;rope;dog toy;1;1;1;1;1
+2053;rope;DVD player;1;1;1;1;1
+2053;rope;stove top;2;1;2;2;1,75
+2053;rope;child's toy;1;1;1;1;1
+2053;rope;counting tool;2;1;2;3;2
+2053;rope;microwave oven;1;1;2;1;1,25
+2053;rope;safety line;1;1;1;2;1,25
+2053;rope;cattle wrangler;1;1;2;2;1,5
+2053;rope;power sources;2;2;2;2;2
+2053;rope;measuring tool;2;1;2;2;1,75
+2054;rope;ladder;1;1;1;2;1,25
+2054;rope;swing;1;1;1;1;1
+2054;rope;magic;1;2;2;1;1,5
+2054;rope;whip;1;1;1;1;1
+2054;rope;tie to a can to speak through;2;2;2;2;2
+2054;rope;repel;1;1;1;1;1
+2055;rope;belt;1;1;1;1;1
+2055;rope;bracelet;1;1;1;1;1
+2055;rope;ruler;2;1;2;2;1,75
+2056;rope;jump;1;1;1;1;1
+2056;rope;belt;1;1;1;1;1
+2056;rope;jewelry;1;1;1;1;1
+2056;rope;outfit;1;1;2;1;1,25
+2056;rope;dog leash;1;1;1;1;1
+2056;rope;clock background wind   into a circle;2;3;2;4;2,75
+2057;rope;jump;1;1;1;1;1
+2057;rope;tourniquet;3;1;2;1;1,75
+2057;rope;swing;1;1;1;1;1
+2057;rope;pulling someone out of a hole;1;1;1;1;1
+2057;rope;rock climbing;1;1;1;1;1
+2057;rope;tightrope to walk across;1;1;1;1;1
+2057;rope;tug of war;1;1;1;1;1
+2058;rope;belt;1;1;1;1;1
+2058;rope;guide people on a trail;1;1;2;2;1,5
+2058;rope;wrap it around a tree to keep it warm;2;3;3;4;3
+2058;rope;use it as a wick in a giant candle;1;1;2;3;1,75
+2058;rope;make a bracelet;1;1;1;2;1,25
+2058;rope;otters can use it to climb out of the river;3;2;3;4;3
+2058;rope;hair extension;2;1;2;2;1,75
+2058;rope;tie it to your phone so you never lose it;2;1;2;3;2
+2058;rope;tie two cars together so they don't get separated;1;1;1;2;1,25
+2058;rope;pretend it's a giant pet worm;2;1;3;3;2,25
+2059;rope;ladder;1;1;1;2;1,25
+2059;rope;leash;1;1;1;1;1
+2059;rope;noose;1;1;1;1;1
+2059;rope;yarn;1;1;2;1;1,25
+2059;rope;scarf;2;1;2;3;2
+2059;rope;tightrope;1;1;1;1;1
+2059;rope;wig;2;1;2;2;1,75
+2059;rope;divider;2;1;2;2;1,75
+2059;rope;decoration;1;1;1;1;1
+2059;rope;wind chime;3;2;3;2;2,5
+2059;rope;trail marker;2;1;2;2;1,75
+2059;rope;dog toy;1;1;1;1;1
+2059;rope;dog toy;1;1;1;1;1
+2059;rope;tire swing;2;1;1;1;1,25
+2059;rope;trip someone;1;1;1;1;1
+2059;rope;depth marker;4;1;2;3;2,5
+2060;rope;rug;2;1;2;2;1,75
+2060;rope;dress;1;1;1;1;1
+2060;rope;jewelry;1;1;1;1;1
+2060;rope;fishing line for big ocean fish;3;2;2;2;2,25
+2061;rope;harness;1;1;1;1;1
+2061;rope;belt;1;1;1;1;1
+2061;rope;hammock;2;1;1;2;1,5
+2061;rope;purse;1;1;2;2;1,5
+2061;rope;divider;2;1;2;2;1,75
+2061;rope;jewelry;1;1;1;1;1
+2061;rope;hang wall decor;1;1;2;1;1,25
+2061;rope;hair tie;1;1;1;1;1
+2061;rope;child's toy;1;1;1;1;1
+2061;rope;clothes line;2;1;2;1;1,5
+2061;rope;hang objects;1;1;1;1;1
+2062;rope;tie it to a belt loop and pretend it's a tail;1;1;2;3;1,75
+2062;rope;make a tire swing;1;1;1;1;1
+2062;rope;make it a snake;1;1;2;1;1,25
+2062;rope;pretend its a lasso and you're a cowboy;1;1;2;2;1,5
+2062;rope;tie it between 2 trees and use it as a tight;1;1;2;1;1,25
+2063;rope;jump;1;1;1;1;1
+2063;rope;overhead light pulley system light switch;2;1;2;3;2
+2063;rope;prop wire;1;1;2;2;1,5
+2063;rope;clothes hanger;2;1;2;1;1,5
+2063;rope;line a walkway;1;1;2;3;1,75
+2063;rope;toy snake;1;1;2;1;1,25
+2063;rope;fire starter;1;2;2;2;1,75
+2063;rope;a measuring device;2;1;2;2;1,75
+2063;rope;a carpet beater;2;2;3;3;2,5
+2063;rope;wall art glued to the wall in patterns you enjoy;2;2;2;2;2
+2064;rope;leash;1;1;1;1;1
+2064;rope;belt;1;1;1;1;1
+2064;rope;jewelry;1;1;1;1;1
+2064;rope;decoration;1;1;1;1;1
+2064;rope;curtain holder;1;1;2;1;1,25
+2064;rope;clothes line;2;1;2;1;1,5
+2065;rope;jump;1;1;1;1;1
+2065;rope;belt;1;1;1;1;1
+2065;rope;swing;1;1;1;1;1
+2065;rope;necklace;1;1;1;1;1
+2065;rope;dishcloth;1;2;3;3;2,25
+2065;rope;pull a canoe from a truck;1;1;1;2;1,25
+2065;rope;something to carry your purse with;1;1;2;1;1,25
+2065;rope;lawnmower;3;3;3;3;3
+2065;rope;shoestring;1;1;1;1;1
+2065;rope;hair extensions;2;1;2;2;1,75
+2066;rope;to make a fake snake;1;1;2;1;1,25
+2066;rope;as a material to fill in the cracks between door frames and bodies so that no one can see in;3;3;3;4;3,25
+2066;rope;to create a hammock in your living room instead of a couch;3;1;2;3;2,25
+2066;rope;to make a turban;1;3;2;3;2,25
+2066;rope;to connect two doors so that you can open them at the same time;2;3;2;3;2,5
+2066;rope;to hang furniture from the ceiling that you want to turn into a swing;2;1;2;3;2
+2067;rope;delineate a play area for a game;2;1;2;3;2
+2067;rope;make it into a coat;1;1;2;2;1,5
+2067;rope;use it as a scarf;2;1;2;3;2
+2067;rope;make it into a chair;2;1;2;2;1,75
+2067;rope;tie it around your car so no one can break in;3;1;2;3;2,25
+2068;rope;jump;1;1;1;1;1
+2068;rope;belt;1;1;1;1;1
+2068;rope;suspenders;2;2;2;3;2,25
+2068;rope;headband;1;1;1;2;1,25
+2068;rope;house decor;1;1;2;1;1,25
+2068;rope;hair tie;1;1;1;1;1
+2068;rope;measuring tool;2;1;2;2;1,75
+2071;rope;jump;1;1;1;1;1
+2071;rope;handcuffs;1;1;1;1;1
+2071;rope;shoelaces;1;1;1;1;1
+2071;rope;belt;1;1;1;1;1
+2071;rope;necklace;1;1;1;1;1
+2071;rope;pretend hair;2;1;2;1;1,5
+2071;rope;dog leash;1;1;1;1;1
+2071;rope;zip line;4;2;2;2;2,5
+2071;rope;pretend snake;1;1;2;1;1,25
+2071;rope;make a rug;2;1;2;2;1,75
+2071;rope;hair tie;1;1;1;1;1
+2071;rope;phone cord;2;2;2;3;2,25
+2072;rope;belt;1;1;1;1;1
+2072;rope;weave it into a cozy blanket;2;1;2;3;2
+2072;rope;repair broken shoes;2;1;2;2;1,75
+2072;rope;keep your car together;1;1;2;2;1,5
+2072;rope;knit a sweater for a cat;3;3;2;4;3
+2072;rope;keep the gate outside of your house together;2;1;2;1;1,5
+2072;rope;create a robe;2;2;2;2;2
+2072;rope;get garbage out of a dangerous place for you to go to;1;2;3;3;2,25
+2072;rope;use to catch crabs;2;2;2;2;2
+2072;rope;catch raindrops;2;2;3;3;2,5
+2072;rope;make a curtain;2;1;2;3;2
+2072;rope;make a couch;2;1;2;2;1,75
+2072;rope;fly a kite;2;2;2;2;2
+2072;rope;fish hooks;2;2;2;1;1,75
+2072;rope;make clothes;1;1;2;1;1,25
+2072;rope;collect shells with;1;3;2;3;2,25
+2072;rope;attach to an icicle and use it as a weapon in the winter;2;2;4;4;3
+2073;rope;belt;1;1;1;1;1
+2073;rope;swing;1;1;1;1;1
+2073;rope;dog leash;1;1;1;1;1
+2073;rope;tire tread;4;3;2;4;3,25
+2073;rope;paper towel holder;3;1;2;3;2,25
+2073;rope;shoe strings;1;1;1;1;1
+2073;rope;bow tie;1;1;2;3;1,75
+2073;rope;picture frame;2;2;2;3;2,25
+2073;rope;tire swing;2;1;1;1;1,25
+2073;rope;hair tie;1;1;1;1;1
+2074;rope;lift;1;1;1;1;1
+2074;rope;trap;2;1;1;2;1,5
+2075;rope;using the   to time travel to different galaxies;2;3;3;3;2,75
+2075;rope;using the   to trip somebody;1;1;1;1;1
+2075;rope;using the   as a leash for a dog;1;1;1;1;1
+2075;rope;mining gold with a magic;1;3;3;4;2,75
+2075;rope;making yarn from a;1;1;2;3;1,75
+2075;rope;stealing harry potters wand with a;2;3;3;4;3
+2075;rope;making a bird house out of robe;2;1;3;2;2
+2075;rope;making music with a;2;2;2;2;2
+2076;rope;climbing;1;1;1;1;1
+2076;rope;pull;1;1;1;1;1
+2076;rope;knots;1;1;1;1;1
+2076;rope;wrapping;2;1;2;1;1,5
+2076;rope;tie;1;1;1;1;1
+2076;rope;belt;1;1;1;1;1
+2076;rope;hang;1;1;1;1;1
+2076;rope;swing;1;1;1;1;1
+2076;rope;dress;1;1;1;1;1
+2076;rope;steps;1;1;2;1;1,25
+2076;rope;exercise;1;1;1;1;1
+2076;rope;whip;1;1;1;1;1
+2076;rope;toy;1;1;1;1;1
+2076;rope;gather;1;1;1;1;1
+2076;rope;music;2;2;2;2;2
+2076;rope;art;1;1;1;1;1
+2077;rope;a belt;1;1;1;1;1
+2077;rope;circular wall hangings;2;2;2;2;2
+2077;rope;a headband;1;1;2;2;1,5
+2077;rope;a towel rack;2;1;3;3;2,25
+2077;rope;a knot sculpture;2;1;2;2;1,75
+2077;rope;wrapping it around a vase or jar for decoration;2;2;2;1;1,75
+2077;rope;a hanging seat if you attached some to two walls or the ceiling;3;1;2;3;2,25
+2078;rope;making a hammock;2;1;1;3;1,75
+2078;rope;learn to make awesome knots;1;1;2;1;1,25
+2078;rope;fishing net;1;1;1;1;1
+2078;rope;use to grow vine squash;3;3;2;2;2,5
+2079;rope;noose;1;1;1;1;1
+2079;rope;belt;1;1;1;1;1
+2079;rope;bondage;1;1;2;1;1,25
+2079;rope;ring;1;1;2;1;1,25
+2079;rope;shoelace;1;1;1;1;1
+2079;rope;necklace;1;1;1;1;1
+2079;rope;pendulum;3;1;2;3;2,25
+2079;rope;bracelet;1;1;1;1;1
+2079;rope;whip;1;1;1;1;1
+2079;rope;crochet material;1;1;2;2;1,5
+2079;rope;bungee chord;2;1;1;1;1,25
+2079;rope;rock climbing;1;1;1;1;1
+2079;rope;hair tie;1;1;1;1;1
+2079;rope;measuring tape;2;1;2;2;1,75
+2079;rope;performance art;2;2;2;2;2
+2079;rope;trip wire;2;1;1;1;1,25
+2080;rope;lasso;1;1;1;1;1
+2080;rope;as a manmade vine to swing amongst trees;3;2;4;2;2,75
+2080;rope;hair accessory;1;1;1;1;1
+2080;rope;decorative purposes;1;1;1;1;1
+2081;rope;belt;1;1;1;1;1
+2081;rope;necklace;1;1;1;1;1
+2081;rope;bracelet;1;1;1;1;1
+2081;rope;border;2;1;2;2;1,75
+2081;rope;toy snake;1;1;2;1;1,25
+2081;rope;neck tie;1;1;2;2;1,5
+2082;rope;pulley;1;1;1;1;1
+2082;rope;tether;1;1;1;1;1
+2082;rope;belt;1;1;1;1;1
+2082;rope;ring;1;1;2;1;1,25
+2082;rope;bracelet;1;1;1;1;1
+2082;rope;buoy;4;1;2;2;2,25
+2082;rope;paintbrush;2;2;2;2;2
+2082;rope;decorations;1;1;1;1;1
+2082;rope;watch;2;2;3;2;2,25
+2082;rope;jewelry;1;1;1;1;1
+2082;rope;earring;1;1;1;1;1
+2082;rope;guitar string;2;2;2;3;2,25
+2082;rope;shoe string;1;1;1;1;1
+2082;rope;anchor line;2;1;2;1;1,5
+2082;rope;purse string;2;1;2;2;1,75
+2082;rope;dog leash;1;1;1;1;1
+2082;rope;pull out a tooth;2;2;2;2;2
+2082;rope;fort;2;1;2;2;1,75
+2082;rope;dog toy;1;1;1;1;1
+2082;rope;stamp;2;1;3;2;2
+2082;rope;fishing line;2;2;1;1;1,5
+2083;rope;tie two people who annoy each other together for mediation;2;2;3;4;2,75
+2083;rope;bridge across two buildings for birds;3;1;3;4;2,75
+2083;rope;hold a bridge up;1;1;1;2;1,25
+2083;rope;keep a helicopter from flying too high;3;2;2;2;2,25
+2084;rope;to climb up it;1;1;1;1;1
+2084;rope;bracelet;1;1;1;1;1
+2084;rope;tie something together;1;1;1;1;1
+2084;rope;using it to make a bridge;2;1;2;2;1,75
+2084;rope;using it to pull something;1;1;1;1;1
+2084;rope;shoe lace;1;1;1;1;1
+2084;rope;tug a war;1;1;1;1;1
+2084;rope;hanging someone;1;1;1;1;1
+2084;rope;whipping someone with it;1;1;1;1;1
+2084;rope;using it as a belt;1;1;1;1;1
+2084;rope;using the material to make a fire;1;2;2;2;1,75
+2085;rope;stretch it out;1;1;1;1;1
+2085;rope;exercise with it;1;1;1;1;1
+2085;rope;connect things together;1;1;1;1;1
+2085;rope;decoration;1;1;1;1;1
+2085;rope;tie things;1;1;1;1;1
+2085;rope;sew things together;1;1;1;2;1,25
+2085;rope;stretch things;1;1;2;2;1,5
+2085;rope;arts and crafts;1;1;1;1;1
+2085;rope;create marks;1;1;2;2;1,5
+2085;rope;pull things;1;1;1;1;1
+2086;rope;shoelaces;1;1;1;1;1
+2086;rope;belt;1;1;1;1;1
+2086;rope;scarf;2;1;2;3;2
+2086;rope;necklace;1;1;1;1;1
+2086;rope;dress;1;1;1;1;1
+2086;rope;lasso;1;1;1;1;1
+2086;rope;handle to a purse/bag;1;1;1;2;1,25
+2086;rope;whip;1;1;1;1;1
+2086;rope;use it to wrap up presents;2;1;2;2;1,75
+2086;rope;hair band;1;1;1;1;1
+2086;rope;you wan make a wrap around ring;1;1;2;1;1,25
+2086;rope;backpack straps;4;2;2;2;2,5
+2086;rope;you can use it as a tight walking;2;1;2;1;1,5
+2087;rope;food lasso;1;1;2;3;1,75
+2087;rope;intestinal connections;2;4;4;3;3,25
+2087;rope;sensory   for diseases;2;3;2;3;2,5
+2088;rope;wrap the   around your hand and use it to practice boxing;4;3;3;4;3,5
+2088;rope;dye the   your hair color and use it as extensions or make a bun;3;1;3;3;2,5
+2089;rope;swing;1;1;1;1;1
+2089;rope;Firestarter;1;2;2;2;1,75
+2089;rope;straps on bags;2;2;2;2;2
+2090;rope;you can make an art sculpture and use the   to hold pieces up or be a part of the pieces;2;2;2;2;2
+2090;rope;you can tear up a piece of   and tie the strings together to make a hat or a basket of some sort;2;2;3;3;2,5
+2091;rope;you can use a   as a belt to hold your pants up;1;1;1;1;1
+2091;rope;use a   to pull things closer to you without having to move up and get it;1;2;2;3;2
+2091;rope;use a   to whip your kids if they misbehave;1;1;1;1;1
+2091;rope;you can use a   to make a tire swing by hanging it off a tree;1;1;2;1;1,25
+2091;rope;use a   to hold something together i.e. furniture;1;1;1;1;1
+2091;rope;use a   to tie it to the tv remote  so you don't have to get up and get it;2;3;3;4;3
+2091;rope;use a   to climb outside your window;1;1;2;2;1,5
+2092;rope;belt;1;1;1;1;1
+2092;rope;blanket;2;1;2;3;2
+2092;rope;bowtie;1;1;2;3;1,75
+2092;rope;mummy wrappings;3;2;3;3;2,75
+2092;rope;hair extensions;2;1;2;2;1,75
+2093;rope;use it to tie up a bicycle;2;1;2;2;1,75
+2093;rope;use it to hang decorations around a house;1;2;2;2;1,75
+2093;rope;turn it into jewelry;1;1;2;1;1,25
+2093;rope;undo it to make a design for clothes;2;1;2;2;1,75
+2094;rope;belt;1;1;1;1;1
+2094;rope;clothing;1;1;1;1;1
+2094;rope;jewelry;1;1;1;1;1
+2094;rope;art;1;1;1;1;1
+2094;rope;door holder;1;1;2;1;1,25
+2095;rope;belt;1;1;1;1;1
+2095;rope;clothes;1;1;1;1;1
+2095;rope;insulation;2;2;3;3;2,5
+2095;rope;fuse;1;2;2;3;2
+2095;rope;fire starter;1;2;2;2;1,75
+2096;rope;necklace;1;1;1;1;1
+2096;rope;tightrope;1;1;1;1;1
+2096;rope;wristband;1;1;1;1;1
+2096;rope;wind chime;3;2;3;2;2,5
+2096;rope;hand cuffs;1;1;1;1;1
+2097;rope;if coiled on itself and glued together it could be a table;3;1;2;3;2,25
+2097;rope;if cut and frayed  it could be hay bales in a cowboy diorama;3;5;4;3;3,75
+2097;rope;a hopscotch play area;3;2;2;3;2,5
+2097;rope;it could be used as a cat scratching post;3;2;2;2;2,25
+2098;rope;connecting arguing siblings to force them to be together;2;2;2;3;2,25
+2098;rope;lion's breath instrument;2;2;3;4;2,75
+2098;rope;large yarn;1;1;2;2;1,5
+2098;rope;ruler;2;1;2;2;1,75
+2098;rope;unwind it and make fake hair;2;1;2;2;1,75
+2098;rope;exercise equipment;1;1;1;1;1
+2098;rope;show and tell for vocabulary lesson;1;3;3;3;2,5
+2099;rope;jump over it;1;1;1;1;1
+2099;rope;strap things to your car;1;1;1;1;1
+2099;rope;throw it over a branch to swing on;1;1;1;1;1
+2099;rope;lasso something;1;1;1;1;1
+2099;rope;play tug of war with your dog;1;1;1;1;1
+2099;rope;pretend it's a snake to scare someone;1;1;2;2;1,5
+2099;rope;tie someone up;1;1;1;1;1
+2099;rope;wear it as a belt and pretend you're a monk;3;2;2;3;2,5
+2099;rope;practice knots;1;1;2;1;1,25
+2099;rope;crawl up it to get inside a window;1;1;2;2;1,5
+2099;rope;use it as a tail;2;1;2;2;1,75
+2100;rope;a reliable manner of glue;1;2;3;3;2,25
+2100;rope;building a bridge;2;1;2;1;1,5
+2100;rope;decorations for a house;1;1;1;1;1
+2100;rope;a way to keep your hair together;1;1;2;1;1,25
+2101;rope;leash;1;1;1;1;1
+2101;rope;use for painting a braided design;3;3;2;2;2,5
+2101;rope;puppet strings;2;2;2;2;2
+2101;rope;something to hold your books together;1;1;2;1;1,25
+2101;rope;use for exercise;1;1;1;1;1
+2102;rope;a belt;1;1;1;1;1
+2102;rope;toy;1;1;1;1;1
+2102;rope;exercise equipment;1;1;1;1;1
+2104;rope;pulley;1;1;1;1;1
+2104;rope;clothesline;2;1;2;1;1,5
+2104;rope;shoelace;1;1;1;1;1
+2104;rope;lasso;1;1;1;1;1
+2104;rope;child leash;2;1;2;1;1,5
+2104;rope;puppet string;2;2;2;2;2
+2104;rope;curtain tie;1;1;2;1;1,25
+2104;rope;kite tail;3;3;3;2;2,75
+2106;rope;to climb up;1;1;1;1;1
+2106;rope;tug o war;1;1;1;1;1
+2106;rope;swing;1;1;1;1;1
+2106;rope;twist and shape and put concrete on it  call it art;2;2;2;3;2,25
+2106;rope;lasso for astronauts to catch aliens;2;5;3;1;2,75
+2107;rope;jewelry;1;1;1;1;1
+2107;rope;take it apart and use string as shoe laces;1;1;1;1;1
+2107;rope;create a leash;1;1;1;1;1
+2107;rope;as a weapon  to spank children with;1;1;1;1;1
+2107;rope;wall decorations;1;2;2;2;1,75
+2107;rope;use it as a belt when you cant find one;1;1;1;1;1
+2108;rope;leash;1;1;1;1;1
+2108;rope;skirt;2;1;2;1;1,5
+2108;rope;necklace;1;1;1;1;1
+2108;rope;bracelet;1;1;1;1;1
+2108;rope;picture frame holder;2;1;2;3;2
+2108;rope;clothes line;2;1;2;1;1,5
+2108;rope;measuring stick;2;1;2;2;1,75
+2108;rope;safety gear;1;1;1;2;1,25
+2111;rope;leash;1;1;1;1;1
+2111;rope;jump;1;1;1;1;1
+2111;rope;pants;2;1;2;1;1,5
+2111;rope;tie;1;1;1;1;1
+2111;rope;belt;1;1;1;1;1
+2111;rope;bracelet;1;1;1;1;1
+2111;rope;wig;2;1;2;2;1,75
+2111;rope;measurement;2;1;2;2;1,75
+2111;rope;fake snake;1;1;2;1;1,25
+2111;rope;finish line;2;1;2;2;1,75
+2111;rope;bungee cord;2;1;1;1;1,25
+2111;rope;hair tie;1;1;1;1;1
+2111;rope;blind fold;2;2;2;2;2
+2112;rope;a belt;1;1;1;1;1
+2112;rope;tie the bumper of a car on;1;1;2;2;1,5
+2112;rope;fray and use as floss;2;2;3;4;2,75
+2112;rope;hang out of the back of pants to be the scarecrow's pet;3;2;2;3;2,5
+2113;rope;as a tie;1;1;2;1;1,25
+2113;rope;as a belt;1;1;1;1;1
+2113;rope;to play a game of jumping jacks;2;1;2;2;1,75
+2113;rope;to keep a mattress from sliding off of a car;1;1;2;1;1,25
+2113;rope;as a hair tie;1;1;2;1;1,25
+2113;rope;to pull a car;1;1;1;1;1
+2113;rope;to measure your arm;2;1;2;2;1,75
+2113;rope;to hang your clothes across when tied up;2;1;2;1;1,5
+2114;rope;use it as necklace;1;1;2;2;1,5
+2114;rope;use it as a leash;1;1;1;1;1
+2114;rope;use it as a lever  pull it and something will happen;1;1;3;2;1,75
+2114;rope;use it as a swing;2;1;2;1;1,5
+2114;rope;use it as a belt;1;1;1;1;1
+2114;rope;tie many together and make a large swing;2;1;2;2;1,75
+2115;rope;making some form of clothing out of it;1;1;2;1;1,25
+2115;rope;unbinding it and weaving the pieces into a patter on a piece of mesh;2;1;2;3;2
+2115;rope;braiding a small piece into a person's hair to create a design;1;1;3;3;2
+2116;rope;belt;1;1;1;1;1
+2116;rope;swing;1;1;1;1;1
+2116;rope;earrings;1;1;1;1;1
+2116;rope;wig;2;1;2;2;1,75
+2116;rope;picture frame edge;2;2;2;3;2,25
+2116;rope;neck tie;1;1;2;2;1,5
+2116;rope;fire starter;1;2;2;2;1,75
+2117;rope;use   to pull out teeth;3;2;2;2;2,25
+2117;rope;use colorful   as decoration on a wine bottle or vase;2;2;2;2;2
+2117;rope;do any experiment on how you get along with a person you're tied to for 4 hours using;2;3;4;3;3
+2117;rope;use   to practice braiding in case you don't have a doll to practice on;2;2;3;3;2,5
+2117;rope;use tiny   for earrings;1;1;2;2;1,5
+2117;rope;use   as a replacement for hair if you can't afford weave;2;3;3;2;2,5
+2117;rope;use   as a belt;1;1;1;1;1
+2117;rope;use   to store things on the ceiling instead of the floor;4;2;3;4;3,25
+2120;rope;ladder;1;1;1;2;1,25
+2120;rope;belt;1;1;1;1;1
+2120;rope;a ring;1;1;2;1;1,25
+2120;rope;necklace;1;1;1;1;1
+2120;rope;bracelet;1;1;1;1;1
+2120;rope;camping;1;1;1;1;1
+2120;rope;watch;2;2;3;2;2,25
+2120;rope;dream catcher;3;2;2;3;2,5
+2120;rope;pumpkin;2;2;2;1;1,75
+2120;rope;tie down a trunk;1;1;2;1;1,25
+2120;rope;shoe string;1;1;1;1;1
+2120;rope;dog leash;1;1;1;1;1
+2120;rope;carry a cup;2;1;2;3;2
+2120;rope;pull up bar;3;2;2;2;2,25
+2120;rope;hair tie;1;1;1;1;1
+2120;rope;fishing pole;2;2;2;1;1,75
+2121;rope;climbing;1;1;1;1;1
+2121;rope;harness;1;1;1;1;1
+2121;rope;noose;1;1;1;1;1
+2121;rope;hitch;1;1;1;1;1
+2121;rope;belay;3;1;1;1;1,5
+2121;rope;escape;1;1;2;1;1,25
+2121;rope;pendulum;3;1;2;3;2,25
+2121;rope;lasso;1;1;1;1;1
+2121;rope;pulley system;1;1;1;1;1
+2121;rope;make a splint;2;2;2;2;2
+2121;rope;training;1;1;1;1;1
+2121;rope;dock a boat;1;1;1;1;1
+2121;rope;tug o  war;1;1;1;1;1
+2121;rope;make a raft;3;2;2;3;2,5
+2122;rope;pulley;1;1;1;1;1
+2122;rope;jump;1;1;1;1;1
+2122;rope;tie;1;1;1;1;1
+2122;rope;belt;1;1;1;1;1
+2122;rope;weapon;1;1;1;1;1
+2122;rope;guitar string;2;2;2;3;2,25
+2122;rope;shoe lace;1;1;1;1;1
+2122;rope;tug of war;1;1;1;1;1
+2123;rope;tow;1;1;1;1;1
+2123;rope;leash;1;1;1;1;1
+2123;rope;noose;1;1;1;1;1
+2123;rope;tourniquet;3;1;2;2;2
+2123;rope;swing;1;1;1;1;1
+2123;rope;measuring;2;1;2;2;1,75
+2123;rope;connects;1;1;1;1;1
+2123;rope;exercise;1;1;1;1;1
+2123;rope;coaster;2;2;2;3;2,25
+2123;rope;net;1;1;1;1;1
+2123;rope;marker;2;1;2;2;1,75
+2123;rope;decoration;1;1;1;1;1
+2123;rope;trivet;4;1;2;1;2
+2123;rope;boat anchor;2;1;2;1;1,5
+2123;rope;art holder;2;1;1;2;1,5
+2123;rope;fishing line;2;2;1;1;1,5
+2124;rope;jump;1;1;1;1;1
+2124;rope;hammock;2;1;1;2;1,5
+2124;rope;swing;1;1;1;1;1
+2124;rope;headband;1;1;1;2;1,25
+2124;rope;boat anchor;2;1;2;1;1,5
+2124;rope;to dry your clothes on;2;1;2;1;1,5
+2125;rope;belt;1;1;1;1;1
+2125;rope;headband;1;1;1;2;1,25
+2125;rope;paint like a snake to scare folks;2;1;2;3;2
+2125;rope;use to make telephone;2;3;2;2;2,25
+2125;rope;trick people by putting a dollar on the end and pulling it away;2;1;3;3;2,25
+2125;rope;practice using scissors;1;3;2;3;2,25
+2125;rope;use its friction to cut clay objects;3;4;3;4;3,5
+2125;rope;floss for a giant;3;2;3;3;2,75
+2125;rope;use to make a large drat shooter;3;2;3;3;2,75
+2125;rope;tie on a doorknob to shut door from a distance;2;2;2;3;2,25
+2126;rope;parachute;3;1;2;3;2,25
+2126;rope;handcuffs;1;1;1;1;1
+2126;rope;skis;3;2;3;2;2,5
+2126;rope;swing;1;1;1;1;1
+2126;rope;necklace;1;1;1;1;1
+2126;rope;bracelet;1;1;1;1;1
+2126;rope;lasso;1;1;1;1;1
+2126;rope;vehicle;1;1;2;1;1,25
+2126;rope;shield;2;1;3;2;2
+2126;rope;dream catcher;3;2;2;3;2,5
+2126;rope;dinner;1;1;1;1;1
+2126;rope;dresser;2;1;2;2;1,75
+2126;rope;floatation device;3;1;2;2;2
+2126;rope;swimsuit;2;2;3;2;2,25
+2126;rope;bowtie;1;1;2;3;1,75
+2126;rope;hair accessory;1;1;1;1;1
+2128;rope;to jump;1;1;1;1;1
+2128;rope;to climb up;1;1;1;1;1
+2128;rope;to hang;1;1;1;1;1
+2128;rope;a swing;1;1;2;1;1,25
+2128;rope;to swing on;2;1;1;1;1,25
+2128;rope;a lasso;1;1;1;1;1
+2128;rope;make a wrestling ring;2;1;2;2;1,75
+2128;rope;to get to a higher place;1;1;1;1;1
+2128;rope;to repel out of a copter;3;2;2;3;2,5
+2128;rope;to drag something;1;1;1;1;1
+2128;rope;to keep a car trunk closed;1;1;2;1;1,25
+2128;rope;to retrieve a spear;2;2;3;3;2,5
+2128;rope;to drag another car behind;1;1;1;1;1
+2128;rope;tie down my gf;1;1;2;1;1,25
+2128;rope;to hold something up;1;1;1;1;1
+2130;rope;belt;1;1;1;1;1
+2130;rope;sash;2;1;2;3;2
+2130;rope;necklace;1;1;1;1;1
+2130;rope;weight;2;1;1;1;1,25
+2130;rope;floss;2;2;2;3;2,25
+2130;rope;headband;1;1;1;2;1,25
+2131;rope;make a wig;2;1;2;1;1,5
+2131;rope;costume;1;1;2;2;1,5
+2131;rope;use to tie up hair;1;1;2;2;1,5
+2131;rope;decoration;1;1;1;1;1
+2131;rope;make a hammock;2;1;2;2;1,75
+2131;rope;make figurines;2;1;2;2;1,75
+2131;rope;to make a picture;1;1;2;2;1,5
+2131;rope;measure things;2;1;2;2;1,75
+2133;rope;hang from a tree to climb;1;1;2;1;1,25
+2133;rope;use to pull a person with;1;1;1;2;1,25
+2133;rope;use as a belt;1;1;1;1;1
+2133;rope;use to bundle objects together;1;1;1;1;1
+2134;rope;use it for decorate;1;1;1;1;1
+2134;rope;make it for play exercise in the morning;1;1;2;3;1,75
+2135;rope;belt;1;1;1;1;1
+2135;rope;kite;1;1;2;2;1,5
+2135;rope;vase;2;2;2;2;2
+2135;rope;doll hair;2;1;2;2;1,75
+2136;rope;bracelet;1;1;1;1;1
+2136;rope;exercise;1;1;1;1;1
+2136;rope;whip;1;1;1;1;1
+2136;rope;magic trick;1;2;2;2;1,75
+2136;rope;sending things over high elevation;1;2;2;2;1,75
+2136;rope;hair tie;1;1;1;1;1
+2136;rope;art project;1;1;1;1;1
+2137;rope;suitcase puller;1;2;2;3;2
+2137;rope;to unravel for knitting;1;2;2;3;2
+2137;rope;fire starters;1;2;2;2;1,75
+2137;rope;measuring tool;2;1;2;2;1,75
+2139;rope;leash;1;1;1;1;1
+2139;rope;jump;1;1;1;1;1
+2139;rope;tie;1;1;1;1;1
+2139;rope;bondage;1;1;2;1;1,25
+2139;rope;tightrope;1;1;1;1;1
+2139;rope;dress;1;1;1;1;1
+2139;rope;magic;1;2;2;1;1,5
+2139;rope;coloring utensil;2;1;2;2;1,75
+2141;rope;twine;1;1;1;1;1
+2141;rope;a noose;1;1;1;1;1
+2141;rope;bandage;1;2;2;2;1,75
+2141;rope;a dress;2;1;2;1;1,5
+2141;rope;a giant broom;2;3;2;3;2,5
+2141;rope;a neck tie;1;1;2;2;1,5
+2141;rope;use as a wick in a candle;1;1;2;2;1,5
+2142;rope;tie around your stomach to lose weight;2;3;3;3;2,75
+2142;rope;make a   dragon for Chinese new years;4;4;3;4;3,75
+2142;rope;fishing rod for sharks;3;2;3;2;2,5
+2142;rope;tie hair;1;1;1;1;1
+2142;rope;section hair off while bleaching;3;2;3;4;3
+2143;rope;noose;1;1;1;1;1
+2143;rope;jump;1;1;1;1;1
+2143;rope;make into a hair bow hair tie;1;1;2;2;1,5
+2143;rope;dog toy;1;1;1;1;1
+2143;rope;trace your steps;2;1;2;3;2
+2144;rope;gloves;2;1;2;2;1,75
+2144;rope;bracelet;1;1;1;1;1
+2144;rope;hair bow;1;1;1;1;1
+2144;rope;hair tie;1;1;1;1;1
+2144;rope;to remember where you came from;2;1;3;4;2,5
+2144;rope;coffee holder;2;1;2;3;2
+2146;rope;a curtain;2;1;2;3;2
+2146;rope;underwear;2;1;2;2;1,75
+2146;rope;brush;2;2;2;2;2
+2146;rope;a hat;1;1;2;1;1,25
+2146;rope;a helicopter;3;3;3;2;2,75
+2146;rope;pen;1;1;2;2;1,5
+2146;rope;holder;1;1;1;1;1
+2146;rope;a costume  stickman;2;2;2;3;2,25
+2146;rope;coiled wearables;1;1;2;3;1,75
+2146;rope;a ring to hold things with or carry;1;1;2;3;1,75
+2146;rope;hair extensions;2;1;2;2;1,75
+2148;rope;shoelaces;1;1;1;1;1
+2148;rope;computer wire;1;2;2;2;1,75
+2149;rope;jump;1;1;1;1;1
+2149;rope;belt;1;1;1;1;1
+2149;rope;decoration;1;1;1;1;1
+2149;rope;prop;1;1;2;1;1,25
+2149;rope;dog leash;1;1;1;1;1
+2149;rope;hula hoop;2;1;2;3;2
+2149;rope;seat belt;2;1;1;3;1,75
+2149;rope;hair tie;1;1;1;1;1
+2151;rope;pulley;1;1;1;1;1
+2151;rope;shoelaces;1;1;1;1;1
+2151;rope;belt;1;1;1;1;1
+2151;rope;hanger;2;1;1;1;1,25
+2151;rope;string;1;1;1;1;1
+2151;rope;lasso;1;1;1;1;1
+2151;rope;dog toy;1;1;1;1;1
+2151;rope;cat toy;1;1;1;1;1
+2151;rope;hair tie;1;1;1;1;1
+2151;rope;fishing line;2;2;1;1;1,5
+2152;rope;a belt;1;1;1;1;1
+2152;rope;word art for wall;2;2;2;2;2
+2152;rope;wreath;4;2;3;2;2,75
+2152;rope;garland for tree;2;2;3;3;2,5
+2152;rope;dog leash;1;1;1;1;1
+2152;rope;place mat;2;1;2;3;2
+2153;rope;doorbell when attached to a bell;2;1;2;3;2
+2153;rope;unthread it so you can use the strands to make something like a weaved basket/net/hat;2;1;2;3;2
+2153;rope;boundary divide;2;1;2;2;1,75
+2153;rope;coil it to make a hat or basket;1;1;2;2;1,5
+2153;rope;lever to pull/load things;1;1;1;1;1
+2153;rope;exercise equipment;1;1;1;1;1
+2154;rope;ladder;1;1;1;2;1,25
+2154;rope;a leash;1;1;1;1;1
+2154;rope;a noose;1;1;1;1;1
+2154;rope;to climb;1;1;1;1;1
+2154;rope;a swing;1;1;2;1;1,25
+2154;rope;a lasso;1;1;1;1;1
+2154;rope;a weapon;1;1;2;1;1,25
+2154;rope;net;1;1;1;1;1
+2154;rope;to make a trap;2;1;1;2;1,5
+2154;rope;to make a fire;2;2;2;2;2
+2154;rope;exercise equipment;1;1;1;1;1
+2155;rope;bows;1;1;2;1;1,25
+2155;rope;pretend its the longest noodle in the world;3;2;4;3;3
+2155;rope;or you can use it as a jump;1;1;1;1;1
+2155;rope;or use it to make a doll;2;1;2;2;1,75
+2155;rope;knot it together to make a blanket;1;1;2;3;1,75
+2155;rope;ties;1;1;1;1;1
+2155;rope;pretend its a snake;1;1;2;1;1,25
+2155;rope;pretend its a eel;2;1;3;2;2
+2155;rope;decoration on a door;1;1;1;1;1
+2155;rope;or decoration on a tree;1;1;1;2;1,25
+2155;rope;make it a pet;1;1;2;1;1,25
+2155;rope;or use it to make clothes for something;1;1;2;1;1,25
+2155;rope;or decoration on the mantle;1;1;1;2;1,25
+2156;rope;stairs;3;1;2;1;1,75
+2156;rope;hammock;2;1;1;2;1,5
+2156;rope;swing;1;1;1;1;1
+2156;rope;braids;1;1;2;2;1,5
+2156;rope;bracelet;1;1;1;1;1
+2156;rope;hold a piñata;1;1;2;1;1,25
+2156;rope;make straight lines;1;2;2;2;1,75
+2156;rope;obstacle course;1;1;1;2;1,25
+2157;rope;climb;1;1;1;1;1
+2157;rope;hang flower pots;2;2;2;1;1,75
+2157;rope;curl hair;4;3;2;3;3
+2157;rope;walk a dog;1;1;1;1;1
+2157;rope;tire swing;2;1;1;1;1,25
+2157;rope;make a basket;1;1;2;2;1,5
+2157;rope;create words with it;1;2;2;3;2
+2158;rope;noose;1;1;1;1;1
+2158;rope;belt;1;1;1;1;1
+2158;rope;shoelace;1;1;1;1;1
+2158;rope;swing;1;1;1;1;1
+2158;rope;a necklace;1;1;1;1;1
+2158;rope;making a replica of spaghetti noodle;1;1;2;3;1,75
+2158;rope;binding;1;1;1;3;1,5
+2158;rope;whip;1;1;1;1;1
+2158;rope;decoration;1;1;1;1;1
+2158;rope;replacement for a fishing line;3;2;2;2;2,25
+2158;rope;hair tie;1;1;1;1;1
+2159;rope;use it as hair extension;2;2;2;2;2
+2159;rope;hot couture fashion;1;3;2;3;2,25
+2159;rope;door stuffer;1;1;2;2;1,5
+2159;rope;make furniture out of;2;1;2;2;1,75
+2160;rope;I can make a swing;1;1;1;1;1
+2160;rope;I can make shoes;1;1;1;2;1,25
+2160;rope;I can make a dress;2;1;2;2;1,75
+2160;rope;I can make a blanket;2;1;2;2;1,75
+2160;rope;I can make a sled;2;2;2;2;2
+2160;rope;make a bowl;2;1;2;1;1,5
+2160;rope;or go fishing with the;2;2;2;2;2
+2160;rope;I can make a hammock;2;1;1;2;1,5
+2160;rope;I can make a hair bow;1;1;1;2;1,25
+2161;rope;unweave a   and use it as a tool to paint with;3;3;2;3;2,75
+2161;rope;coiled together to form a headpiece/mask;1;2;3;3;2,25
+2161;rope;multiple knitted together to form a hanging construction/hammocks;2;1;2;3;2
+2162;rope;basket;1;1;2;2;1,5
+2162;rope;carpet;2;1;2;2;1,75
+2162;rope;floss;2;2;2;3;2,25
+2162;rope;paper;1;1;2;2;1,5
+2162;rope;taken apart and used to make clothing;1;1;2;2;1,5
+2162;rope;tracking system in order to avoid getting lost use it to anchor yourself to a post;2;2;2;3;2,25
+2162;rope;exfoliate the skin;3;3;3;3;3
+2162;rope;first aid to help compress a wound;2;1;2;3;2
+2162;rope;light decor;2;1;2;1;1,5
+2162;rope;paint brush;2;2;2;2;2
+2163;rope;pulley;1;1;1;1;1
+2163;rope;leash;1;1;1;1;1
+2163;rope;belt;1;1;1;1;1
+2163;rope;tourniquet;3;1;2;1;1,75
+2163;rope;shoes;2;1;2;1;1,5
+2163;rope;snare;1;1;2;2;1,5
+2163;rope;hat;1;1;2;1;1,25
+2163;rope;support;1;1;1;1;1
+2163;rope;protection;2;1;2;1;1,5
+2163;rope;tinder;2;1;2;1;1,5
+2164;rope;leash;1;1;1;1;1
+2164;rope;handcuffs;1;1;1;1;1
+2164;rope;necklace;1;1;1;1;1
+2164;rope;face exfoliator;3;3;3;3;3
+2164;rope;hula hoop;2;1;2;3;2
+2164;rope;dog toy;1;1;1;1;1
+2165;rope;leash;1;1;1;1;1
+2165;rope;belt;1;1;1;1;1
+2165;rope;swing;1;1;1;1;1
+2165;rope;whip;1;1;1;1;1
+2165;rope;bind things;1;1;1;3;1,5
+2165;rope;tug war;1;1;1;1;1
+2165;rope;power lines;2;2;2;2;2
+2165;rope;phone wire;2;2;2;3;2,25
+2166;rope;frame;2;2;2;3;2,25
+2166;rope;bridge;2;1;2;2;1,75
+2166;rope;hat;1;1;2;1;1,25
+2166;rope;bra;2;1;3;2;2
+2166;rope;clothes hanger;2;1;2;1;1,5
+2166;rope;pot holder;2;2;2;2;2
+2166;rope;fishing pole;2;2;2;1;1,75
+2168;rope;as a belt;1;1;1;1;1
+2168;rope;as a necklace;1;1;2;1;1,25
+2168;rope;fake spaghetti noodles;1;1;2;2;1,5
+2168;rope;hair for your Halloween outfit;2;1;2;3;2
+2168;rope;spider web;3;2;2;2;2,25
+2168;rope;as ninja nunchucks;4;2;3;3;3
+2168;rope;used to keep a door closed;2;1;2;2;1,75
+2169;rope;climbing;1;1;1;1;1
+2169;rope;jump;1;1;1;1;1
+2169;rope;tying stuff together;1;1;1;1;1
+2170;rope;shoelace;1;1;1;1;1
+2170;rope;swing;1;1;1;1;1
+2170;rope;hold things together;1;1;1;1;1
+2170;rope;use it to start a fire;2;2;2;2;2
+2170;rope;tie someone up;1;1;1;1;1
+2170;rope;tie a gift up;1;1;1;2;1,25
+2170;rope;murder weapon;1;1;2;2;1,5
+2170;rope;help someone up;1;1;1;1;1
+2170;rope;spanking someone;1;1;1;1;1
+2171;rope;jump;1;1;1;1;1
+2171;rope;belt;1;1;1;1;1
+2171;rope;measuring;2;1;2;2;1,75
+2171;rope;whip;1;1;1;1;1
+2171;rope;divider;2;1;2;2;1,75
+2171;rope;tug of war;1;1;1;1;1
+2171;rope;tying stuff;1;1;1;1;1
+2171;rope;learning knots;1;1;2;1;1,25
+2171;rope;using it as an reinforce;1;1;1;3;1,5
+2174;rope;as a dress;2;1;2;1;1,5
+2174;rope;to tie up a criminal and have them dangling over the edge of a mountain;2;2;3;3;2,5
+2174;rope;to hang a dead body;1;1;2;1;1,25
+2174;rope;to catch someone trying to run away;2;1;2;2;1,75
+2174;rope;use them for sexual acts;1;1;2;2;1,5
+2174;rope;to play hula hoop with;2;1;2;3;2
+2174;rope;to create a ladder to climb up and down;1;1;2;2;1,5
+2174;rope;to tie dragon up;2;2;3;3;2,5
+2174;rope;to set a trap up for elves in the forest;2;2;3;4;2,75
+2174;rope;to choke someone from telling a secret;1;1;2;3;1,75
+2175;rope;fence;2;1;1;2;1,5
+2175;rope;frame;2;2;2;3;2,25
+2175;rope;snake;1;1;2;1;1,25
+2175;rope;bridge;2;1;2;2;1,75
+2175;rope;hair;1;1;2;1;1,25
+2175;rope;coil;1;1;1;1;1
+2175;rope;swing;1;1;1;1;1
+2175;rope;clothes;1;1;1;1;1
+2175;rope;shirt;2;1;2;1;1,5
+2175;rope;husband;2;3;3;1;2,25
+2175;rope;pocketbook;1;1;2;2;1,5
+2175;rope;filing cabinet;2;2;2;3;2,25
+2176;rope;ladder;1;1;1;2;1,25
+2176;rope;basket;1;1;2;2;1,5
+2176;rope;plate;2;1;2;1;1,5
+2176;rope;whip;1;1;1;1;1
+2176;rope;stuffed snake toy;1;1;2;2;1,5
+2176;rope;satchel;1;1;2;2;1,5
+2176;rope;booby trap;1;1;3;2;1,75
+2176;rope;grappling hook;2;2;2;1;1,75
+2177;rope;belt;1;1;1;1;1
+2177;rope;swing;1;1;1;1;1
+2177;rope;headband;1;1;1;2;1,25
+2177;rope;bra;2;1;3;2;2
+2177;rope;to wrap around a gift;2;1;2;2;1,75
+2177;rope;pet leash;1;1;1;1;1
+2177;rope;door knocker;2;1;3;2;2
+2177;rope;hula hoop;2;1;2;3;2
+2177;rope;loofah;3;3;3;4;3,25
+2177;rope;makeup brush;2;3;2;3;2,5
+2178;rope;jumping;1;1;1;1;1
+2178;rope;dancing;1;1;2;1;1,25
+2178;rope;swing;1;1;1;1;1
+2178;rope;painting;2;1;2;1;1,5
+2178;rope;working out;1;1;2;2;1,5
+2178;rope;a means to transport things;2;1;2;2;1,75
+2178;rope;bungee cord;2;1;1;1;1,25
+2178;rope;hair tie;1;1;1;1;1
+2179;rope;to throw;1;1;1;1;1
+2179;rope;to bind;1;1;1;1;1
+2179;rope;for sailing;1;1;1;2;1,25
+2179;rope;for measuring knowing length of;2;1;2;2;1,75
+2179;rope;to tie a knot;1;1;1;1;1
+2179;rope;to hang a weight;1;1;1;1;1
+2179;rope;to use for a belt;1;1;1;1;1
+2179;rope;to attach one item to another;1;1;1;1;1
+2180;rope;leash;1;1;1;1;1
+2180;rope;clothes;1;1;1;1;1
+2180;rope;decoration;1;1;1;1;1
+2180;rope;grappling hook;2;2;2;1;1,75
+2181;rope;noose;1;1;1;1;1
+2181;rope;shoelaces;1;1;1;1;1
+2181;rope;tourniquet;3;1;2;2;2
+2181;rope;hoisting;1;1;1;1;1
+2181;rope;shoes;2;1;2;1;1,5
+2181;rope;string;1;1;1;1;1
+2181;rope;binding;1;1;1;3;1,5
+2181;rope;saw;2;3;2;2;2,25
+2181;rope;demolition;2;1;2;2;1,75
+2181;rope;fibers for fabric;1;1;2;3;1,75
+2181;rope;mechanical tendon;4;2;3;4;3,25
+2181;rope;fire starter;1;2;2;2;1,75
+2182;rope;to tie things together;1;1;1;1;1
+2182;rope;to pull something heavy;1;1;1;1;1
+2182;rope;to divide a room;2;1;2;3;2
+2182;rope;to hang someone;1;1;1;1;1
+2183;rope;ribbon;1;1;2;1;1,25
+2183;rope;belt;1;1;1;1;1
+2183;rope;necklace;1;1;1;1;1
+2183;rope;bracelet;1;1;1;1;1
+2183;rope;shoe lace;1;1;1;1;1
+2184;rope;swing;1;1;1;1;1
+2184;rope;a lasso;1;1;1;1;1
+2184;rope;tie things from cars;1;1;1;1;1
+2184;rope;puppet;1;2;2;2;1,75
+2184;rope;instrument;2;2;2;2;2
+2184;rope;vehicle;1;1;2;1;1,25
+2184;rope;cobweb;3;2;3;2;2,5
+2184;rope;giant worm;2;1;3;2;2
+2184;rope;safety harness;1;1;1;2;1,25
+2185;rope;g string;2;3;3;2;2,5
+2185;rope;tooth flosser;2;2;3;3;2,5
+2185;rope;booby trap;1;1;3;2;1,75
+2185;rope;cheese string;1;1;2;2;1,5
+2185;rope;door opener;2;1;2;1;1,5
+2185;rope;get in between the toes;1;2;2;2;1,75
+2185;rope;butt wiper;2;4;3;3;3
+2185;rope;pass messages;1;2;2;3;2
+2186;rope;curtains;2;1;2;2;1,75
+2186;rope;swing;1;1;1;1;1
+2186;rope;a wig;3;1;2;1;1,75
+2186;rope;a wall;1;1;2;1;1,25
+2186;rope;human sized web;3;3;2;3;2,75
+2186;rope;a bowl;2;1;2;1;1,5
+2186;rope;package stuffing;2;1;2;3;2
+2187;rope;ladder;1;1;1;2;1,25
+2187;rope;strap;1;1;1;1;1
+2187;rope;trap;2;1;1;2;1,5
+2187;rope;swing;1;1;1;1;1
+2187;rope;communication system;2;2;2;3;2,25
+2188;rope;flooring;2;1;2;2;1,75
+2188;rope;swinging bridge;2;1;2;2;1,75
+2188;rope;circular rug;2;1;2;2;1,75
+2188;rope;abstract coat hanger;2;1;3;1;1,75
+2188;rope;hanging shelving;1;1;2;2;1,5
+2188;rope;see through wall;1;2;3;3;2,25
+2189;rope;a scarf;2;1;2;3;2
+2189;rope;a snake to scare people with;1;1;2;1;1,25
+2189;rope;a new potholder;2;1;2;3;2
+2189;rope;cover it in peanut butter  a treat for squirrels;4;4;3;4;3,75
+2189;rope;new handles on a bike;3;3;2;4;3
+2189;rope;macrame owl;2;2;3;3;2,5
+2189;rope;a teething toy;2;4;3;3;3
+2190;rope;belt;1;1;1;1;1
+2190;rope;hair;1;1;2;1;1,25
+2190;rope;swing;1;1;1;1;1
+2190;rope;necklace;1;1;1;1;1
+2190;rope;shirt;2;1;2;1;1,5
+2190;rope;pasta;2;1;2;2;1,75
+2191;rope;an impromptu belt;1;1;1;1;1
+2191;rope;combining   to make a massive jump    up to 15 people could jump at once;2;1;3;3;2,25
+2191;rope;unraveling  using the material to weave into something else;1;1;2;2;1,5
+2192;rope;a fuse;1;2;3;3;2,25
+2192;rope;corset tie;1;3;2;2;2
+2192;rope;hair tie;1;1;1;1;1
