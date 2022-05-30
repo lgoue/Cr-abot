@@ -27,7 +27,7 @@ RATE = 16000
 logger_url = "http://"+config['Dev_IP']+":8008/"
 SILENCE = 30
 path_name = ""
-turn = 0
+naudio = 0
 
 def is_silent(snd_data):
     "Returns 'True' if below the 'silent' threshold"
@@ -183,14 +183,18 @@ if __name__ == "__main__":
             logger_url+"get_path",
             params ={}
             ).text[1:-1]
+        turn = int(requests.get(
+            logger_url+"get_turn",
+            params ={}
+            ).text)
         if result != path_name:
             path_name = result
-            turn = 0
+            n_audio = 0
         try :
             os.mkdir(config['log_dir']+"audio_log/"+path_name)
         except:
             pass
-        filename = config['log_dir']+"audio_log/"+path_name+"/"+path_name+"_"+str(turn)+".wav"
+        filename = config['log_dir']+"audio_log/"+path_name+"/"+path_name+"_"+str(turn)+"_"+str(n_audio)+".wav"
         print(filename)
         record_to_file(filename)
         result = detector.predict_proba(filename)
@@ -199,4 +203,4 @@ if __name__ == "__main__":
             logger_url+"update_audio_emo",
             params ={"h":result['happy'],"s":result['sad'],"n":result['neutral']}
             )
-        turn += 1
+        n_audio += 1

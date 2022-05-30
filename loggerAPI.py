@@ -21,6 +21,7 @@ sad = []
 ne = []
 cond="na"
 path ="na"
+turn = 0
 parser = argparse.ArgumentParser()
 parser.add_argument("--condition")
 args_parse = parser.parse_args()
@@ -50,6 +51,8 @@ def new_user(name_log:str):
     global sad
     global ne
     global path
+    global turn
+    turn = 0
     path=name_log
     df = pd.DataFrame(columns=cols)
     df.to_csv(log_directory+name_log,index=False)
@@ -116,6 +119,11 @@ def get_a_video():
         return np.mean(a)
     else :
         return -1
+@app.get('/get_turn')
+def get_turn():
+    global turn
+
+    return turn
 @app.get('/log')
 def log(turn_log : str,name_log:str):
     global v
@@ -123,8 +131,11 @@ def log(turn_log : str,name_log:str):
     global hap
     global sad
     global ne
+    global turn
+
     df = pd.read_csv(log_directory+name_log)
     row = turn_log.split(',')
+    turn = int(row[0])
     row = [cond]+row
     if len(v)>0:
         row+=[np.mean(v),np.mean(a)]

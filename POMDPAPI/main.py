@@ -10,6 +10,7 @@ from observation import Idea
 import requests
 import json
 import os.path
+import os
 app = FastAPI()
 # Load configuration
 with open(os.path.dirname(__file__) +'/../vaAPI.json') as f:
@@ -89,8 +90,16 @@ def get_belief_state(m:str,i:str):
 
 @app.get('/save')
 def save(log_file:str):
-    env.agent.save(config['log_dir']+'save_models/'+log_file+"_")
-    env.agent.save(config['log_dir']+'save_models/')
+    path = requests.get(
+        logger_url+"get_path",
+        params ={}
+        ).text[1:-1]
+    try :
+        os.mkdir(config['log_dir']+"save_models/"+path)
+    except:
+        pass
+    env.agent.save(config['log_dir']+'save_models/'+path+"/"+log_file+"_")
+    env.agent.save(config['log_dir']+'save_models/'+path+"/")
     return True
 
 @app.get('/new_interaction')
