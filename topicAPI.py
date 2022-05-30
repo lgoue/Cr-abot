@@ -48,8 +48,8 @@ model = {}
 defs = {}
 for i in items:
 
-  data = np.load("models/"+i+"_topics.npy")
-  m = BERTopic.load("models/"+i+"_topics")
+  data = np.load(config['log_dir']+"models/"+i+"_topics.npy")
+  m = BERTopic.load(config['log_dir']+"models/"+i+"_topics")
   names[i] = []
   proba[i] = []
   model[i] = m

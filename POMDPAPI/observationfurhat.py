@@ -17,11 +17,17 @@ class MoodObservation:
 
         self.P,self.A,self.D = self.PAD_values()
 
+    #def distance_to(self, other_observation):
+    #    return (
+    #        abs(self.P - other_observation.P)**2
+    #        + abs(self.A - other_observation.A)**2
+    #        + abs(self.D - other_observation.D)**2
+    #    )
     def distance_to(self, other_observation):
         return (
-            abs(self.P - other_observation.P)**2
-            + abs(self.A - other_observation.A)**2
-            + abs(self.D - other_observation.D)**2
+            abs(self.hap - other_observation.hap)**2
+            + abs(self.sad - other_observation.sad)**2
+            + abs(self.ne - other_observation.ne)**2
         )
 
     def PAD_values(self):

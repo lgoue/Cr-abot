@@ -13,6 +13,7 @@ from utils import get_best_estimators
 import requests
 import json
 import os.path
+import os
 # Load configuration
 with open(os.path.dirname(__file__) +'/../vaAPI.json') as f:
   config = json.load(f)
@@ -185,7 +186,11 @@ if __name__ == "__main__":
         if result != path_name:
             path_name = result
             turn = 0
-        filename = "audio_log/"+path_name+"_"+str(turn)+".wav"
+        try :
+            os.mkdir(config['log_dir']+"audio_log/"+path_name)
+        except:
+            pass
+        filename = config['log_dir']+"audio_log/"+path_name+"/"+path_name+"_"+str(turn)+".wav"
         print(filename)
         record_to_file(filename)
         result = detector.predict_proba(filename)

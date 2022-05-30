@@ -329,14 +329,14 @@ items=['box','rope']
 model = {}
 for i in items:
   m = BertClassifier(freeze_bert=False)
-  m.load_state_dict(torch.load("./models/model_useful_"+i+".pt"))
+  m.load_state_dict(torch.load(config['log_dir']+"models/model_useful_"+i+".pt"))
   model[i] = m
   model[i].eval()
 
 model_feasability = {}
 for i in items:
   m = BertClassifier3(freeze_bert=False)
-  m.load_state_dict(torch.load("./models/model_appropriatness_"+i+".pt",map_location=torch.device('cpu')))
+  m.load_state_dict(torch.load(config['log_dir']+"/models/model_appropriatness_"+i+".pt",map_location=torch.device('cpu')))
   model_feasability[i] = m
   model_feasability[i].eval()
 
@@ -345,9 +345,9 @@ import gensim
 from gsdmm import MovieGroupProcess
  # Load data and set labels
 gsdmm_box = MovieGroupProcess(K=15, alpha=0.8, beta=0.8, n_iters=30)
-gsdmm_box=gsdmm_box.from_data(15, 0.8, 0.8, 1282, 13, np.load('models/doc_count_box.npy',allow_pickle=True), np.load('models/cluster_word_count_box.npy',allow_pickle=True), np.load('models/cluster_word_distribution_box.npy',allow_pickle=True))
+gsdmm_box=gsdmm_box.from_data(15, 0.8, 0.8, 1282, 13, np.load(config['log_dir']+'models/doc_count_box.npy',allow_pickle=True), np.load(config['log_dir']+'models/cluster_word_count_box.npy',allow_pickle=True), np.load(config['log_dir']+'models/cluster_word_distribution_box.npy',allow_pickle=True))
 gsdmm_rope = MovieGroupProcess(K=15, alpha=0.8, beta=0.8, n_iters=30)
-gsdmm_rope=gsdmm_rope.from_data(15, 0.8, 0.8, 1052, 13, np.load('models/doc_count_rope.npy',allow_pickle=True), np.load('models/cluster_word_count_rope.npy',allow_pickle=True), np.load('models/cluster_word_distribution_rope.npy',allow_pickle=True))
+gsdmm_rope=gsdmm_rope.from_data(15, 0.8, 0.8, 1052, 13, np.load(config['log_dir']+'models/doc_count_rope.npy',allow_pickle=True), np.load(config['log_dir']+'models/cluster_word_count_rope.npy',allow_pickle=True), np.load(config['log_dir']+'models/cluster_word_distribution_rope.npy',allow_pickle=True))
 
 gsdmms = {}
 gsdmms['box'] = gsdmm_box

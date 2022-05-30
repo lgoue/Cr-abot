@@ -5,12 +5,13 @@ import pandas as pd
 import requests
 import numpy as np
 import json
+import argparse
 # Load configuration
 with open('vaAPI.json') as f:
   config = json.load(f)
 print(config)
 
-log_directory ="log/"
+log_directory =config['log_dir']+"log/"
 pomdp_url = "http://"+config['Dev_IP']+":8888/"
 app = FastAPI()
 v=[]
@@ -18,7 +19,12 @@ a=[]
 hap = []
 sad = []
 ne = []
+cond="na"
 path ="na"
+parser = argparse.ArgumentParser()
+parser.add_argument("--condition")
+args_parse = parser.parse_args()
+cond=args_parse.condition
 app.add_middleware(
     CORSMiddleware,
     allow_origins=['*'],
@@ -28,7 +34,7 @@ app.add_middleware(
 )
 app.type = "00"
 cols=["condition","n_turn","strat","da","p","a","item","use","novelty","ellaboration","usefulness","feasability","hap","sadness","angry","surprise","neutral","attendfurhat","attendpad","attendupleft","mutualgaze","smile","valance_video","arousal_video","happy_audio","sad_audio","neutral_audio"]
-for m in range(3):
+for m in range(2):
     for i in range(5):
         cols.append('belief_m_'+str(m)+'_i_'+str(i))
 print(len(cols))
@@ -119,6 +125,7 @@ def log(turn_log : str,name_log:str):
     global ne
     df = pd.read_csv(log_directory+name_log)
     row = turn_log.split(',')
+    row = [cond]+row
     if len(v)>0:
         row+=[np.mean(v),np.mean(a)]
         v=[]
@@ -132,7 +139,7 @@ def log(turn_log : str,name_log:str):
         ne=[]
     else :
         row+=[-1,-1,-1]
-    for m in range(3):
+    for m in range(2):
         for i in range(5):
             result = requests.get(
             pomdp_url+"get_belief_state",

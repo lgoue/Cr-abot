@@ -17,6 +17,7 @@ class InteractionModel:
 
         # -------- Model configurations -------- #
         self.cond = cond
+        print("condition :",cond)
 
         self.reward_crea = self.creabot_config["reward_crea"]
         self.action = Action(ActionType.NEUTRAL)

@@ -1,4 +1,4 @@
-N_MOOD = 5
+N_MOOD = 2
 
 
 class MoodType(object):
@@ -7,10 +7,10 @@ class MoodType(object):
     """
 
     RELAXED = 5
-    HAPPY = 1
-    SAD = 2
+    HAPPY = 0
+    SAD = 1
     ANGRY = 3
-    NEUTRAL = 4
+    NEUTRAL = 2
     SURPRISED=0
 
 
@@ -20,13 +20,21 @@ class Mood:
         self.bin_number = type
         self.m = 0.5
 
+#    def distance_to_observation(self, observation):
+#        p, a, d = self.PAD_values()
+#        return (
+#            (observation.P - p) ** 2
+#            + (observation.A - a) ** 2
+#            + (observation.D - d) ** 2
+#        )
     def distance_to_observation(self, observation):
-        p, a, d = self.PAD_values()
-        return (
-            (observation.P - p) ** 2
-            + (observation.A - a) ** 2
-            + (observation.D - d) ** 2
-        )
+        match self.bin_number:
+            case MoodType.HAPPY:
+                return (observation.hap - 1) ** 2+(observation.sad)** 2
+            case MoodType.SAD:
+                return (observation.hap ) ** 2+(observation.sad-1)** 2
+            case MoodType.NEUTRAL:
+                return (observation.hap) ** 2+(observation.sad)** 2+(observation.ne-1)** 2
 
 
     def distance_to(self, mood):

@@ -89,8 +89,8 @@ def get_belief_state(m:str,i:str):
 
 @app.get('/save')
 def save(log_file:str):
-    env.agent.save('save_models/'+log_file+"_")
-    env.agent.save('save_models/')
+    env.agent.save(config['log_dir']+'save_models/'+log_file+"_")
+    env.agent.save(config['log_dir']+'save_models/')
     return True
 
 @app.get('/new_interaction')
