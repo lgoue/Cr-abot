@@ -69,9 +69,13 @@ def update_state(idea_score:str,p:str,a:str,d:str,hap:str,sad:str,ang:str,sur:st
     hap = float(hap)
     sad = float(sad)
     ne = float(ne)
+    s = hap + sad + ne
+    hap = hap/s
+    sad =sad/s
+    ne = ne/s
     if hap_audio > 0:
         if hap*sad*ne > 0:
-            mood_observation = MoodObservation((float(hap)+hap_audio)/2,(float(sad)+sad_audio)/2,float(ang),float(sur),(float(ne)+ ne_audio)/2)
+            mood_observation = MoodObservation((float(hap)+2*hap_audio)/3,(float(sad)+2*sad_audio)/3,float(ang),float(sur),(float(ne)+ 2*ne_audio)/3)
         else :
             mood_observation = MoodObservation((float(hap_audio)),(float(sad_audio)),float(ang),float(sur),(float(ne_audio)))
     else:
@@ -105,10 +109,11 @@ def save(log_file:str):
 @app.get('/new_interaction')
 def new_interaction():
     env.new_interaction()
-    try:
-        env.agent.load('save_models/')
-    except:
-        print("first user")
+    if cond == "adaptive":
+        try:
+            env.agent.load('save_models/')
+        except:
+            print("first user")
     env.new_interaction()
     env.update_action(env.state)
     return True
