@@ -34,7 +34,7 @@ args_parse = parser.parse_args()
 cond=args_parse.condition
 args={
     "reward_crea":6,
-    "epsilon":0.2,
+    "epsilon":0.3,
     "condition":cond,
     "gamma":0.2,
     "wp":0.8
@@ -113,7 +113,7 @@ def new_interaction():
         try:
             env.agent.load('save_models/')
         except:
-            print("first user")
+            print(config['log_dir']+"first user")
     env.new_interaction()
     env.update_action(env.state)
     return True

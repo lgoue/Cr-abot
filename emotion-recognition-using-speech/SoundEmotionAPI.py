@@ -20,17 +20,18 @@ with open(os.path.dirname(__file__) +'/../vaAPI.json') as f:
 print(config)
 
 
-THRESHOLD = 500
+THRESHOLD = 5000
 CHUNK_SIZE = 1024
 FORMAT = pyaudio.paInt16
 RATE = 16000
 logger_url = "http://"+config['Dev_IP']+":8008/"
-SILENCE = 30
+SILENCE = 20
 path_name = ""
 naudio = 0
 
 def is_silent(snd_data):
     "Returns 'True' if below the 'silent' threshold"
+
     return max(snd_data) < THRESHOLD
 
 def normalize(snd_data):
