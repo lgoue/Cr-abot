@@ -133,12 +133,15 @@ class Agent:
                             ] *= self.current_user_sample[previous_m][previous_i][state_tuple][
                             action.bin_number
                             ]
-        for previous_m in range(N_MOOD):
-            for previous_i, previous_b in enumerate(belief_proba[previous_m]):
-                if previous_b>max:
-                    max = previous_b
-                    m_max = previous_m
-                    i_max=previous_i
+        m = belief_proba[0,0]
+        m_max=0
+        i_max=0
+        for m in range(N_MOOD):
+            for i, b in enumerate(belief_proba[m]):
+                if b>max:
+                    max = b
+                    m_max = m
+                    i_max= i
         m = m_max
         i = i_max
         self.current_user_transitions[previous_m][previous_i][state_tuple][
@@ -168,6 +171,7 @@ class Agent:
             self.ia[m,i,a,at] * self.mean_transitions[m,i,a,at].copy()
             + self.current_user_transitions[m,i,a,at].copy()*self.current_user_sample[m,i,a,at]
         ) / (self.ia[m,i,a,at] + self.current_user_sample[m,i,a,at])
+        self.ia[m,i,a,at] += self.current_user_sample[m,i,a,at]
 
     def update_transition(self):
 
