@@ -1,5 +1,5 @@
 import numpy as np
-from action import N_ACTION, Action
+from action import N_ACTION, Action, ActionType
 from Creabotstate import CreabotState
 from moods import N_MOOD, Mood
 from utils import softmax,entropy
@@ -223,7 +223,7 @@ class Agent:
                             a += self.transitions[s.mood.bin_number][s.idea_score.bin_number][s.as_tuple()][
                                     action.bin_number, sp.mood.bin_number,sp.idea_score.bin_number
                                     ][sp.as_tuple()] * (
-                                    (sp.idea_score.quality*self.reward_crea - self.reward_crea*10*((sp.last_strat == s.last_strat) & (s.last_strat!=0)))
+                                    (sp.idea_score.quality*self.reward_crea - self.reward_crea*10*((sp.last_strat == s.last_strat) & (s.last_strat!= ActionType.NEUTRAL)))
                                             + self.gamma
                                             * np.max(self.alpha[sp.mood.bin_number][sp.idea_score.bin_number][sp.as_tuple()])
                                             )
