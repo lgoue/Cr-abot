@@ -3,17 +3,8 @@ from pathlib import Path
 import argparse
 import cv2
 
-import torch
-from torch import nn
-from torch.utils.data import DataLoader
-from torch.utils.data.sampler import WeightedRandomSampler
-from torchvision import transforms
 
-from emonet.emonet.models import EmoNet
-from emonet.emonet.data import AffectNet
-from emonet.emonet.data_augmentation import DataAugmentor
-from emonet.emonet.metrics import CCC, PCC, RMSE, SAGR, ACC
-from emonet.emonet.evaluation import evaluate, evaluate_flip
+
 import requests
 import zmq
 import time
@@ -88,7 +79,7 @@ while True:
         img = cv2.imdecode(buf,flags=1)
         if h > 0:
             img = img[y:y+h, x:x+w]
-            
+
         height, width, layers = img.shape
         size = (width,height)
         video.write(img)

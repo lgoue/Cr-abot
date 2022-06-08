@@ -191,13 +191,17 @@ class Agent:
                             self.belief.belief_proba[m,i]
                             * self.alpha[m][i][state.as_tuple()][a.bin_number]
                             )
-
-        r = np.random.rand()
         print(self.Q)
+        r = np.random.rand()
+        p=softmax(0.3*self.Q)
+        for i in range(len(self.actions)):
+            if r < np.sum(p[:i+1]):
+                return self.actions[i]
+
         if r < self.epsilon:
             return self.actions[np.random.randint(N_ACTION)]
         else:
-            return self.actions[np.argmax(self.Q)]
+            return self.actions[np.argmax(softmax(0.3*self.Q))]
 
     def update_alpha(self, state, action):
 
@@ -219,7 +223,7 @@ class Agent:
                             a += self.transitions[s.mood.bin_number][s.idea_score.bin_number][s.as_tuple()][
                                     action.bin_number, sp.mood.bin_number,sp.idea_score.bin_number
                                     ][sp.as_tuple()] * (
-                                    (sp.idea_score.quality*self.reward_crea - self.reward_crea*10*((sp.last_strat == s.last_strat) & (s.last_strat!=0)))
+                                    (sp.idea_score.quality*self.reward_crea - self.reward_crea*100*((sp.last_strat == s.last_strat) & (s.last_strat!=0)))
                                             + self.gamma
                                             * np.max(self.alpha[sp.mood.bin_number][sp.idea_score.bin_number][sp.as_tuple()])
                                             )

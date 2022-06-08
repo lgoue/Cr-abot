@@ -25,7 +25,7 @@ CHUNK_SIZE = 1024
 FORMAT = pyaudio.paInt16
 RATE = 16000
 logger_url = "http://"+config['Dev_IP']+":8008/"
-SILENCE = 20
+SILENCE = 30
 path_name = ""
 naudio = 0
 

@@ -19,15 +19,15 @@ class Idea:
     def __init__(self, quality, bin_number=True):
         if bin_number:
             if quality == IdeaQuality.NO:
-                self.quality = -2
+                self.quality = -10
             if quality == IdeaQuality.NA:
                 self.quality = 0
             else:
                 self.quality = quality
             self.bin_number = quality
         else:
-            if quality == -2:
-                self.quality = -2
+            if quality == -10:
+                self.quality = -10
                 self.bin_number = IdeaQuality.NO
             if quality == 0:
                 self.quality = 0

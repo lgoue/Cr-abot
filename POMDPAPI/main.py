@@ -70,9 +70,10 @@ def update_state(idea_score:str,p:str,a:str,d:str,hap:str,sad:str,ang:str,sur:st
     sad = float(sad)
     ne = float(ne)
     s = hap + sad + ne
-    hap = hap/s
-    sad =sad/s
-    ne = ne/s
+    if s > 0:
+        hap = hap/s
+        sad =sad/s
+        ne = ne/s
     if hap_audio > 0:
         if hap*sad*ne > 0:
             mood_observation = MoodObservation((float(hap)+2*hap_audio)/3,(float(sad)+2*sad_audio)/3,float(ang),float(sur),(float(ne)+ 2*ne_audio)/3)
