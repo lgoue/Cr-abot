@@ -94,6 +94,7 @@ def get_belief_state(m:str,i:str):
 
 @app.get('/save')
 def save(log_file:str):
+    self.agent.update_mean_transition()
     path = requests.get(
         logger_url+"get_path",
         params ={}
