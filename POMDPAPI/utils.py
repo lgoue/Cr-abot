@@ -2,7 +2,10 @@ import numpy as np
 
 
 def softmax(x):
-    return np.exp(x) / sum(np.exp(x) + 0.00001)
+    try :
+        return np.exp(x) / sum(np.exp(x) + 0.001)
+    except:
+        return np.exp(x) / 0.001
 
 
 def entropy(x):

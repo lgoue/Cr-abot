@@ -105,7 +105,7 @@ def save(log_file:str):
     except:
         pass
     env.agent.save(config['log_dir']+'save_models/'+path+"/"+log_file+"_")
-    env.agent.save(config['log_dir']+'save_models/'+path+"/")
+    #env.agent.save(config['log_dir']+'save_models/'+path+"/")
     return True
 
 @app.get('/new_interaction')
