@@ -14,6 +14,7 @@ class Agent:
     def __init__(self, gamma=0.2, wp=0.3, eps_alpha=0.0001, epsilon=0,reward_crea=6):
 
         self.mean_transitions = np.ones(SHAPE_TRANSITION) / LEN_TRANSITION
+        self.mean_transitions_start = np.ones(SHAPE_TRANSITION) / LEN_TRANSITION
         # Number of passed interaction
         self.ia = np.ones(SHAPE_SAMPLES)*EPS
         # Coefficient for the importance of creativity reward againt entropy reward
@@ -52,10 +53,12 @@ class Agent:
                 self.update_alpha(CreabotState(Mood(0),la,Idea(0)),Action(a))
 
     def load(self,path):
-        self.mean_transitions = np.load(path+"_transition.npy" )
-        self.ia = np.load(path+"_ia.npy")
+        self.mean_transitions = np.load(path+"transition.npy" )
+        self.mean_transitions_start = np.load(path+"transition.npy" )
+        self.ia = np.load(path+"ia.npy")
 
     def save(self,path):
+        self.update_mean_transition()
         np.save(path+"transition.npy",self.mean_transitions )
         np.save(path+"current_user_transition.npy",self.current_user_transitions )
         np.save(path+"ia.npy",self.ia)
@@ -133,7 +136,7 @@ class Agent:
                             ] *= self.current_user_sample[previous_m][previous_i][state_tuple][
                             action.bin_number
                             ]
-        m = belief_proba[0,0]
+        max = belief_proba[0,0]
         m_max=0
         i_max=0
         for m in range(N_MOOD):
@@ -177,7 +180,7 @@ class Agent:
 
         self.transitions = (
             self.wp * self.current_user_transitions.copy()
-            + (1 - self.wp) * self.mean_transitions.copy()
+            + (1 - self.wp) * self.mean_transitions_start.copy()
         )
 
 

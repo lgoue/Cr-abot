@@ -95,7 +95,7 @@ def get_belief_state(m:str,i:str):
 
 @app.get('/save')
 def save(log_file:str):
-    self.agent.update_mean_transition()
+    #env.agent.update_mean_transition()
     path = requests.get(
         logger_url+"get_path",
         params ={}
@@ -113,9 +113,9 @@ def new_interaction():
     env.new_interaction()
     if cond == "adaptive":
         try:
-            env.agent.load('save_models/')
+            env.agent.load(config['log_dir']+'save_models/')
         except:
-            print(config['log_dir']+"first user")
+            print("first user")
     env.new_interaction()
     env.update_action(env.state)
     return True
